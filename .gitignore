@@ -1,0 +1,6 @@
+*.csv
+*.png
+*.pdf
+*code-workspace
+*checkpoint.ipynb
+src/__pycache__
