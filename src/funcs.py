@@ -12,6 +12,7 @@ def find(s, ch):
     return np.array([i for i, ltr in enumerate(s) if ltr == ch]).astype(int)
 
 def get_names(df):
+    # This can be dfraw
     names = []
     for irow in range(len(df)):
         s = df.loc[irow,'entry']
@@ -38,7 +39,7 @@ def get_hand_differential(hand, names):
 
     for k in hand_diff.keys():
         hand_diff[k] = np.round(hand_diff[k], 2)
-    assert sum(hand_diff.values()).round(2)==0
+    #assert sum(hand_diff.values()).round(2)==0
     return hand_diff
         
 def get_number(string):
@@ -76,11 +77,11 @@ def apply_rebuys(df, names):
     pass
 
 def get_buyins(dfraw, names):
-    out = {}
+    out = {n:0 for n in names}
     dfi = dfraw[::-1]
     for i, row in dfi.iterrows():
         for n in names:
-            if n in row['entry'] and 'joined' in row['entry']:
+            if n in row['entry'] and ('joined' in row['entry'] or 'joined' in row['entry']):
                 out[n] = get_number(row['entry'])
         if set(out.keys())==set(names):
             break
@@ -93,7 +94,7 @@ def get_hand_start_time(hand):
     time_ = dtparse(time_)
     return time_
 
-def get_robust_totals(dfraw, names):
+def get_totals(dfraw, names, buyins=None):
     dfi = dfraw[::-1].reset_index(drop=True)
     starts = dfi[dfi.entry.str.contains('-- starting hand')]
     ends   = dfi[dfi.entry.str.contains('-- ending hand')]
@@ -103,9 +104,12 @@ def get_robust_totals(dfraw, names):
     for i in range(len(starts)):
         hands.append(dfi.loc[starts.index[i]:ends.index[i]])
 
-    buyins = get_buyins(dfraw, names)
+    # Buyins can be optional, incase we are calling from 
+    # get_lifetime_performance.
+    if buyins is None:
+        buyins = get_buyins(dfraw, names)
+
     totals = pd.DataFrame({n:[buyins[n]] for n in names})
-    totals['handid'] = 0
     totals['time']   = 0
     
     start_time = get_hand_start_time(hands[0])
@@ -116,7 +120,6 @@ def get_robust_totals(dfraw, names):
         
         diff = get_hand_differential(h, names)
 
-        totals.loc[i, 'handid'] = i
         totals.loc[i, 'time'] = hand_delm
 
         for n in names:
@@ -124,7 +127,47 @@ def get_robust_totals(dfraw, names):
 
     return totals.round(2)
 
-if __name__=='__main__':
+def unify_names(df, namegroups):
+    for c in df.columns:
+        for ng in namegroups:
+            if c in ng:
+                df.rename(columns={c:ng[0]})
+    return df
+
+def unify_names_raw(dfraw, namegroups):
+    # Warning, may cause errors
+    df = dfraw.reset_index(drop=1)
+    for irow in range(len(df)):
+        s = df.loc[irow,'entry']
+        name_starts = find(s,'"')[::2]+1
+        name_ends   = find(s,'@')-1
+        if len(name_starts)==0: continue
+        namstt = name_starts[0]
+        namend = name_ends[0]
+        name = s[namstt:namend]
+        for ng in namegroups:
+            if name in ng:
+                df.loc[irow,'entry'] = s[:namstt] + ng[0] + s[namend:]
+    return df
+
+def get_lifetime_performance(dfrawlist, namegroups):
+    names = [ng[0] for ng in namegroups]
+    for i, dfraw in enumerate(dfrawlist):
+        print(i)
+        dfraw = unify_names_raw(dfraw, namegroups)
+        
+        if i==0:
+            df_total = get_totals(dfraw, names)
+            continue
+
+        else:
+            buyins = {name:df_total.iloc[-1][name] for name in names}
+            df = get_totals(dfraw, names, buyins=buyins)
+            df_total = pd.concat([df_total, df]).reset_index(drop=True)
+
+    return df_total[names]
+
+def main1():
     file_number = 0
     datafiles = os.listdir('../data')
     datafiles = ['../data/' + x for x in datafiles]
@@ -132,6 +175,35 @@ if __name__=='__main__':
     dfraw = pd.read_csv('../data/data_03_12_20.csv').reset_index(drop=True)
     
     names = get_names(dfraw)
-    totals = get_robust_totals(dfraw, names)
+    totals = get_totals(dfraw, names)
 
     print(totals.head())
+
+def main2():    
+    datalist = os.listdir('../data/sheff_crew')
+    datalist = [f for f in datalist if 'data' in f and 'mike' not in f]
+
+    datalist = [x[5:-4].replace('_','-') for x in datalist]
+    datalist = sorted(datalist, key = lambda x: datetime.strptime(x, '%d-%m-%y'))
+    datalist = ['data_'+x.replace('-','_')+'.csv' for x in datalist]
+
+    dfall = [pd.read_csv(f'../data/sheff_crew/{x}') for x in datalist]
+
+    allnames = [get_names(d) for d in dfall]
+
+    names = []
+    for aln in allnames:
+        names.extend(aln)
+    names = list(set(names))
+
+    namegroups = [
+        ['Scott','Scottyboi','Dr Scott','Dr. Scott'],
+        ['David','Dr Hurst','Dr. Hurst'],
+        ['Kristo','kris','Kris','Also a DR','Krist'],
+        ['Mike','Michael','Dr. Roche']
+    ]
+
+    get_lifetime_performance(dfall, namegroups)
+
+if __name__=='__main__':
+    main2()
