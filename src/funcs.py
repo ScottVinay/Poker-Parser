@@ -78,13 +78,10 @@ def apply_rebuys(df, names):
 
 def get_buyins(dfraw, names):
     out = {n:0 for n in names}
-    dfi = dfraw[::-1]
-    for i, row in dfi.iterrows():
+    for i, row in dfraw.iterrows():
         for n in names:
-            if n in row['entry'] and ('joined' in row['entry'] or 'joined' in row['entry']):
+            if n in row['entry'] and ('joined' in row['entry'] or 'participation' in row['entry']):
                 out[n] = get_number(row['entry'])
-        if set(out.keys())==set(names):
-            break
     return out
 
 def get_hand_start_time(hand):
@@ -94,15 +91,18 @@ def get_hand_start_time(hand):
     time_ = dtparse(time_)
     return time_
 
-def get_totals(dfraw, names, buyins=None):
+def get_hands(dfraw, names):
     dfi = dfraw[::-1].reset_index(drop=True)
     starts = dfi[dfi.entry.str.contains('-- starting hand')]
     ends   = dfi[dfi.entry.str.contains('-- ending hand')]
     starts = starts[:len(ends)]
     hands = []
-
     for i in range(len(starts)):
         hands.append(dfi.loc[starts.index[i]:ends.index[i]])
+    return hands
+
+def get_totals(dfraw, names, buyins=None):
+    hands = get_hands(dfraw, names)
 
     # Buyins can be optional, incase we are calling from 
     # get_lifetime_performance.
