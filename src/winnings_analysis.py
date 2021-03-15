@@ -51,9 +51,6 @@ def get_number(string):
     return float(num[0])
         
 def get_round_differential(rnd, names):
-    betting_signatures = ['calls','checks','bets','posts']
-    taking_signatures = ['returned', 'collected']
-    
     diff = {n:0 for n in names}
     
     for i,row in rnd.iterrows():
