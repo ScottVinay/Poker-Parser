@@ -1,3 +1,5 @@
+*.png
+*.csv
 *.pdf
 *code-workspace
 *checkpoint.ipynb
