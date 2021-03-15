@@ -1,0 +1,1300 @@
+entry,at,order
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T22:02:07.869Z,161187132787005
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T22:02:07.869Z,161187132787004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (39.40) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.60)",2021-01-28T22:02:07.869Z,161187132787001
+"-- starting hand #66  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T22:02:07.869Z,161187132787000
+"-- ending hand #65 --",2021-01-28T22:02:04.958Z,161187132495902
+"""Dr Hurst @ b7rmnGbpoR"" collected 1.60 from pot",2021-01-28T22:02:04.958Z,161187132495901
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T22:02:04.958Z,161187132495900
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T22:02:04.149Z,161187132415000
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T22:02:02.033Z,161187132203400
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T22:01:58.877Z,161187131887800
+"River: 4♠, A♣, 7♥, 10♥ [6♠]",2021-01-28T22:01:54.011Z,161187131401800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T22:01:53.202Z,161187131320300
+"""Dr Hurst @ b7rmnGbpoR"" raises to 0.40",2021-01-28T22:01:47.472Z,161187130747300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T22:01:38.122Z,161187129812300
+"Turn: 4♠, A♣, 7♥ [10♥]",2021-01-28T22:00:58.333Z,161187125833400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T22:00:57.499Z,161187125750000
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T22:00:54.790Z,161187125479100
+"Flop:  [4♠, A♣, 7♥]",2021-01-28T22:00:45.790Z,161187124579100
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T22:00:44.985Z,161187124498500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T22:00:39.386Z,161187123938700
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T22:00:28.214Z,161187122821806
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T22:00:28.214Z,161187122821805
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (38.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.40)",2021-01-28T22:00:28.214Z,161187122821802
+"-- starting hand #65  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T22:00:28.214Z,161187122821801
+"The player ""Scott @ Ce3DFmEur5"" quits the game with a stack of 0.00.",2021-01-28T22:00:28.214Z,161187122821800
+"-- ending hand #64 --",2021-01-28T22:00:22.197Z,161187122219803
+"""Scott @ Ce3DFmEur5"" shows a 9♦, K♥.",2021-01-28T22:00:22.197Z,161187122219802
+"""Dr Hurst @ b7rmnGbpoR"" collected 20.60 from pot with Four of a Kind, 10's (combination: 10♦, 10♥, 10♣, 10♠, 9♠)",2021-01-28T22:00:22.197Z,161187122219801
+"""Dr Hurst @ b7rmnGbpoR"" shows a 7♠, 10♦.",2021-01-28T22:00:22.197Z,161187122219800
+"""Dr Hurst @ b7rmnGbpoR"" calls 9.70",2021-01-28T22:00:21.388Z,161187122138900
+"""Scott @ Ce3DFmEur5"" raises to 9.70 and go all in",2021-01-28T22:00:16.192Z,161187121619300
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T22:00:12.670Z,161187121267100
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T22:00:08.236Z,161187120823700
+"River: 9♠, 10♥, 10♣, 2♥ [10♠]",2021-01-28T22:00:03.700Z,161187120370700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T22:00:02.858Z,161187120286000
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T22:00:00.856Z,161187120085700
+"Turn: 9♠, 10♥, 10♣ [2♥]",2021-01-28T21:59:55.903Z,161187119590400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:59:55.098Z,161187119509800
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:59:50.132Z,161187119013300
+"Flop:  [9♠, 10♥, 10♣]",2021-01-28T21:59:45.971Z,161187118597200
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:59:45.161Z,161187118516200
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:59:43.085Z,161187118308600
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:59:35.051Z,161187117505500
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:59:22.117Z,161187116211806
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:59:22.117Z,161187116211805
+"Your hand is 9♦, K♥",2021-01-28T21:59:22.117Z,161187116211804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (28.30) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.40) | #6 ""Scott @ Ce3DFmEur5"" (10.30)",2021-01-28T21:59:22.117Z,161187116211801
+"-- starting hand #64  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:59:22.117Z,161187116211800
+"-- ending hand #63 --",2021-01-28T21:59:19.179Z,161187115918102
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.60 from pot",2021-01-28T21:59:19.179Z,161187115918101
+"Uncalled bet of 0.20 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:59:19.179Z,161187115918100
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:59:18.369Z,161187115837100
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:59:17.425Z,161187115742700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:59:13.037Z,161187115303800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:59:07.128Z,161187114712800
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:59:06.191Z,161187114619100
+"Flop:  [8♠, 6♠, J♠]",2021-01-28T21:58:58.414Z,161187113841500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:58:57.602Z,161187113760300
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:58:56.656Z,161187113665700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:58:53.373Z,161187113337400
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:58:49.808Z,161187112981006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:58:49.808Z,161187112981005
+"Your hand is 2♣, 7♥",2021-01-28T21:58:49.808Z,161187112981004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.90) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.60) | #6 ""Scott @ Ce3DFmEur5"" (10.50)",2021-01-28T21:58:49.808Z,161187112981001
+"-- starting hand #63  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:58:49.808Z,161187112981000
+"-- ending hand #62 --",2021-01-28T21:58:43.781Z,161187112378402
+"""Also a DR @ Y1Q6ty6Yvq"" collected 2.80 from pot with Three of a Kind, 2's (combination: 2♥, 2♠, 2♦, K♣, 6♦)",2021-01-28T21:58:43.781Z,161187112378401
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 2♥, 5♥.",2021-01-28T21:58:43.781Z,161187112378400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.80",2021-01-28T21:58:42.963Z,161187112296400
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.80",2021-01-28T21:58:36.890Z,161187111689100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:58:32.344Z,161187111234400
+"River: 2♠, K♣, 4♣, 2♦ [6♦]",2021-01-28T21:58:25.483Z,161187110548600
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:58:24.673Z,161187110467400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:58:14.801Z,161187109480200
+"Turn: 2♠, K♣, 4♣ [2♦]",2021-01-28T21:58:10.453Z,161187109045500
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:58:09.636Z,161187108963700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:57:52.847Z,161187107284800
+"Flop:  [2♠, K♣, 4♣]",2021-01-28T21:57:48.236Z,161187106823700
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:57:47.430Z,161187106743100
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:57:42.243Z,161187106224300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:57:40.202Z,161187106020300
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:57:37.169Z,161187105717006
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:57:37.169Z,161187105717005
+"Your hand is 8♥, 9♠",2021-01-28T21:57:37.169Z,161187105717004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.30) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.20) | #6 ""Scott @ Ce3DFmEur5"" (10.50)",2021-01-28T21:57:37.169Z,161187105717001
+"-- starting hand #62  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:57:37.169Z,161187105717000
+"-- ending hand #61 --",2021-01-28T21:57:34.253Z,161187105425402
+"""Scott @ Ce3DFmEur5"" collected 0.40 from pot",2021-01-28T21:57:34.253Z,161187105425401
+"Uncalled bet of 0.20 returned to ""Scott @ Ce3DFmEur5""",2021-01-28T21:57:34.253Z,161187105425400
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:57:33.442Z,161187105344300
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:57:29.206Z,161187104920700
+"Flop:  [6♣, 3♣, 7♥]",2021-01-28T21:57:26.449Z,161187104645000
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:57:25.640Z,161187104564100
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:57:17.558Z,161187103755800
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:57:15.831Z,161187103583300
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:57:11.686Z,161187103168806
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:57:11.686Z,161187103168805
+"Your hand is 6♠, 6♥",2021-01-28T21:57:11.686Z,161187103168804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.50) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.20) | #6 ""Scott @ Ce3DFmEur5"" (10.30)",2021-01-28T21:57:11.686Z,161187103168801
+"-- starting hand #61  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:57:11.686Z,161187103168800
+"-- ending hand #60 --",2021-01-28T21:57:08.775Z,161187102877602
+"""Scott @ Ce3DFmEur5"" collected 1.60 from pot",2021-01-28T21:57:08.775Z,161187102877601
+"Uncalled bet of 2.80 returned to ""Scott @ Ce3DFmEur5""",2021-01-28T21:57:08.775Z,161187102877600
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:57:07.967Z,161187102796800
+"""Scott @ Ce3DFmEur5"" raises to 3.00",2021-01-28T21:57:04.476Z,161187102447700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:56:52.643Z,161187101264400
+"River: 7♣, 3♠, 8♣, 5♦ [6♥]",2021-01-28T21:56:44.282Z,161187100428500
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:56:43.471Z,161187100347200
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:56:42.063Z,161187100206400
+"Turn: 7♣, 3♠, 8♣ [5♦]",2021-01-28T21:56:40.547Z,161187100054800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:56:39.738Z,161187099973900
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:56:35.693Z,161187099569400
+"Flop:  [7♣, 3♠, 8♣]",2021-01-28T21:56:15.599Z,161187097560300
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:56:14.784Z,161187097478500
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:56:03.331Z,161187096333200
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:55:54.139Z,161187095414000
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:55:49.412Z,161187094941406
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:55:49.412Z,161187094941405
+"Your hand is 4♠, 3♣",2021-01-28T21:55:49.412Z,161187094941404
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.50) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.00) | #6 ""Scott @ Ce3DFmEur5"" (9.50)",2021-01-28T21:55:49.412Z,161187094941401
+"-- starting hand #60  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:55:49.412Z,161187094941400
+"-- ending hand #59 --",2021-01-28T21:55:43.397Z,161187094340003
+"""Scott @ Ce3DFmEur5"" shows a 7♦, 7♣.",2021-01-28T21:55:43.397Z,161187094340002
+"""Also a DR @ Y1Q6ty6Yvq"" collected 7.70 from pot with Two Pair, A's & 10's (combination: A♥, A♦, 10♣, 10♥, 8♠)",2021-01-28T21:55:43.397Z,161187094340001
+"""Also a DR @ Y1Q6ty6Yvq"" shows a A♥, 10♣.",2021-01-28T21:55:43.397Z,161187094340000
+"""Also a DR @ Y1Q6ty6Yvq"" calls 2.40",2021-01-28T21:55:42.589Z,161187094259000
+"""Scott @ Ce3DFmEur5"" raises to 2.40",2021-01-28T21:54:46.945Z,161187088694600
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.80",2021-01-28T21:54:38.114Z,161187087811500
+"River: 6♣, A♦, 8♠, 10♥ [8♥]",2021-01-28T21:54:00.903Z,161187084090600
+"""Scott @ Ce3DFmEur5"" calls 0.60",2021-01-28T21:54:00.094Z,161187084009500
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.60",2021-01-28T21:53:58.294Z,161187083829500
+"Turn: 6♣, A♦, 8♠ [10♥]",2021-01-28T21:53:47.761Z,161187082776200
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:53:46.946Z,161187082694700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:53:44.798Z,161187082480000
+"Flop:  [6♣, A♦, 8♠]",2021-01-28T21:53:39.249Z,161187081925100
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:53:38.443Z,161187081844400
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:53:36.389Z,161187081639000
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:53:31.555Z,161187081155600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:53:30.650Z,161187081065100
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:53:27.469Z,161187080747006
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:53:27.469Z,161187080747005
+"Your hand is 7♦, 7♣",2021-01-28T21:53:27.469Z,161187080747004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.10) | #6 ""Scott @ Ce3DFmEur5"" (13.30)",2021-01-28T21:53:27.469Z,161187080747001
+"-- starting hand #59  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:53:27.469Z,161187080747000
+"-- ending hand #58 --",2021-01-28T21:53:24.547Z,161187080454802
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.20 from pot",2021-01-28T21:53:24.547Z,161187080454801
+"Uncalled bet of 0.10 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:53:24.547Z,161187080454800
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:53:23.741Z,161187080374200
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:53:20.956Z,161187080095600
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:53:10.504Z,161187079050506
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:53:10.504Z,161187079050505
+"Your hand is 6♥, 8♠",2021-01-28T21:53:10.504Z,161187079050504
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.50) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.10) | #6 ""Scott @ Ce3DFmEur5"" (13.40)",2021-01-28T21:53:10.504Z,161187079050501
+"-- starting hand #58  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:53:10.504Z,161187079050500
+"-- ending hand #57 --",2021-01-28T21:53:07.589Z,161187078759002
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.60 from pot",2021-01-28T21:53:07.589Z,161187078759001
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:53:07.589Z,161187078759000
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:53:06.783Z,161187078678400
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:53:04.154Z,161187078415500
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:52:58.565Z,161187077856600
+"Flop:  [10♠, 4♣, 6♣]",2021-01-28T21:52:45.709Z,161187076571000
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:52:44.902Z,161187076490300
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:52:43.976Z,161187076397700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:52:41.051Z,161187076105100
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:52:37.606Z,161187075760706
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:52:37.606Z,161187075760705
+"Your hand is 8♦, 2♠",2021-01-28T21:52:37.606Z,161187075760704
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (16.70) | #6 ""Scott @ Ce3DFmEur5"" (13.60)",2021-01-28T21:52:37.606Z,161187075760701
+"-- starting hand #57  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:52:37.606Z,161187075760700
+"-- ending hand #56 --",2021-01-28T21:52:34.688Z,161187075468902
+"""Dr Hurst @ b7rmnGbpoR"" collected 1.20 from pot",2021-01-28T21:52:34.688Z,161187075468901
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:52:34.688Z,161187075468900
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:52:33.880Z,161187075388100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:52:29.342Z,161187074934300
+"Turn: K♠, J♠, 5♣ [4♥]",2021-01-28T21:52:22.378Z,161187074237900
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T21:52:21.572Z,161187074157300
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:52:14.477Z,161187073447800
+"Flop:  [K♠, J♠, 5♣]",2021-01-28T21:52:04.009Z,161187072401000
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:52:03.199Z,161187072320000
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:51:59.401Z,161187071940100
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:51:56.492Z,161187071649300
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:51:53.653Z,161187071365406
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:51:53.653Z,161187071365405
+"Your hand is 9♦, 6♣",2021-01-28T21:51:53.653Z,161187071365404
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (29.10) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.30) | #6 ""Scott @ Ce3DFmEur5"" (13.60)",2021-01-28T21:51:53.653Z,161187071365401
+"-- starting hand #56  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:51:53.653Z,161187071365400
+"-- ending hand #55 --",2021-01-28T21:51:50.741Z,161187071074402
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.60 from pot",2021-01-28T21:51:50.741Z,161187071074401
+"Uncalled bet of 0.20 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:51:50.741Z,161187071074400
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:51:49.934Z,161187070993500
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:51:47.453Z,161187070745400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:51:41.824Z,161187070182400
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:51:32.112Z,161187069211300
+"Flop:  [10♦, 7♦, K♣]",2021-01-28T21:51:27.056Z,161187068705700
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:51:26.246Z,161187068624800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:51:25.346Z,161187068534700
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:51:08.323Z,161187066832400
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:51:01.064Z,161187066106506
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:51:01.064Z,161187066106505
+"Your hand is 6♦, A♠",2021-01-28T21:51:01.064Z,161187066106504
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (28.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.50) | #6 ""Scott @ Ce3DFmEur5"" (13.80)",2021-01-28T21:51:01.064Z,161187066106501
+"-- starting hand #55  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:51:01.064Z,161187066106500
+"-- ending hand #54 --",2021-01-28T21:50:58.148Z,161187065814902
+"""Scott @ Ce3DFmEur5"" collected 0.40 from pot",2021-01-28T21:50:58.148Z,161187065814901
+"Uncalled bet of 0.20 returned to ""Scott @ Ce3DFmEur5""",2021-01-28T21:50:58.148Z,161187065814900
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:50:57.343Z,161187065734400
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:50:49.851Z,161187064985100
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:50:43.539Z,161187064353900
+"Flop:  [A♠, 5♥, K♠]",2021-01-28T21:50:12.728Z,161187061272900
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:50:11.901Z,161187061190100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:50:06.940Z,161187060694100
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:49:58.996Z,161187059899700
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:49:55.903Z,161187059590406
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:49:55.903Z,161187059590405
+"Your hand is K♦, 2♠",2021-01-28T21:49:55.903Z,161187059590404
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (28.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.70) | #6 ""Scott @ Ce3DFmEur5"" (13.60)",2021-01-28T21:49:55.903Z,161187059590401
+"-- starting hand #54  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:49:55.903Z,161187059590400
+"-- ending hand #53 --",2021-01-28T21:49:49.873Z,161187058987503
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 3♥, K♣.",2021-01-28T21:49:49.873Z,161187058987502
+"""Dr Hurst @ b7rmnGbpoR"" collected 4.80 from pot with Full House, 10's over 3's (combination: 10♣, 10♠, 10♥, 3♣, 3♦)",2021-01-28T21:49:49.873Z,161187058987501
+"""Dr Hurst @ b7rmnGbpoR"" shows a 10♣, 7♥.",2021-01-28T21:49:49.873Z,161187058987500
+"""Dr Hurst @ b7rmnGbpoR"" calls 1.60",2021-01-28T21:49:49.069Z,161187058907000
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 1.60",2021-01-28T21:49:41.848Z,161187058184900
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.80",2021-01-28T21:49:35.582Z,161187057559200
+"River: 5♥, 10♠, 10♥, 3♣ [3♦]",2021-01-28T21:49:25.740Z,161187056574300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T21:49:24.917Z,161187056491800
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:49:21.540Z,161187056154100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:49:05.393Z,161187054539400
+"Turn: 5♥, 10♠, 10♥ [3♣]",2021-01-28T21:48:59.546Z,161187053954800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:48:58.728Z,161187053872900
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:48:42.638Z,161187052263900
+"Flop:  [5♥, 10♠, 10♥]",2021-01-28T21:48:33.410Z,161187051341100
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:48:32.602Z,161187051260300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:48:19.477Z,161187049947800
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:48:15.669Z,161187049567000
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:48:13.761Z,161187049376206
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:48:13.761Z,161187049376205
+"Your hand is 9♣, 4♦",2021-01-28T21:48:13.761Z,161187049376204
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.30) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.10) | #6 ""Scott @ Ce3DFmEur5"" (13.60)",2021-01-28T21:48:13.761Z,161187049376201
+"-- starting hand #53  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:48:13.761Z,161187049376200
+"-- ending hand #52 --",2021-01-28T21:48:10.830Z,161187049083102
+"""Dr Hurst @ b7rmnGbpoR"" collected 1.20 from pot",2021-01-28T21:48:10.830Z,161187049083101
+"Uncalled bet of 0.80 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:48:10.830Z,161187049083100
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:48:10.006Z,161187049000700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.80",2021-01-28T21:48:03.318Z,161187048331800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:47:58.247Z,161187047824800
+"River: 7♥, K♣, 10♠, 9♦ [6♦]",2021-01-28T21:47:51.953Z,161187047195600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:47:51.142Z,161187047114300
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:47:48.382Z,161187046838300
+"Turn: 7♥, K♣, 10♠ [9♦]",2021-01-28T21:47:44.193Z,161187046419500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:47:43.381Z,161187046338200
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:47:39.391Z,161187045939200
+"Flop:  [7♥, K♣, 10♠]",2021-01-28T21:47:33.881Z,161187045388200
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:47:33.067Z,161187045306800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:47:29.094Z,161187044909500
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:47:28.133Z,161187044813400
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:47:15.263Z,161187043526406
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:47:15.263Z,161187043526405
+"Your hand is A♠, 7♠",2021-01-28T21:47:15.263Z,161187043526404
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (25.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.10) | #6 ""Scott @ Ce3DFmEur5"" (14.20)",2021-01-28T21:47:15.263Z,161187043526401
+"-- starting hand #52  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:47:15.263Z,161187043526400
+"-- ending hand #51 --",2021-01-28T21:47:09.224Z,161187042922702
+"""Scott @ Ce3DFmEur5"" collected 2.40 from pot with Three of a Kind, 5's (combination: 5♠, 5♥, 5♣, J♦, 10♥)",2021-01-28T21:47:09.224Z,161187042922701
+"""Scott @ Ce3DFmEur5"" shows a 5♠, 5♥.",2021-01-28T21:47:09.224Z,161187042922700
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.60",2021-01-28T21:47:08.415Z,161187042841600
+"""Scott @ Ce3DFmEur5"" raises to 0.60",2021-01-28T21:47:06.343Z,161187042634300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:47:01.726Z,161187042172700
+"River: 10♥, 5♣, 7♠, J♦ [4♦]",2021-01-28T21:46:55.748Z,161187041575300
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:46:54.942Z,161187041494300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:46:49.729Z,161187040973000
+"Turn: 10♥, 5♣, 7♠ [J♦]",2021-01-28T21:46:45.517Z,161187040551800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:46:44.706Z,161187040470600
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:46:39.082Z,161187039908200
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:46:35.476Z,161187039547700
+"Flop:  [10♥, 5♣, 7♠]",2021-01-28T21:46:19.621Z,161187037962200
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:46:18.806Z,161187037880700
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:46:15.556Z,161187037555600
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:46:11.947Z,161187037194800
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:46:07.511Z,161187036751206
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:46:07.511Z,161187036751205
+"Your hand is 5♠, 5♥",2021-01-28T21:46:07.511Z,161187036751204
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (25.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.30) | #6 ""Scott @ Ce3DFmEur5"" (13.00)",2021-01-28T21:46:07.511Z,161187036751201
+"-- starting hand #51  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:46:07.511Z,161187036751200
+"-- ending hand #50 --",2021-01-28T21:46:01.470Z,161187036147202
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.80 from pot with Two Pair, 8's & 2's (combination: 8♦, 8♥, 2♥, 2♦, 6♣)",2021-01-28T21:46:01.470Z,161187036147201
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 2♥, 5♣.",2021-01-28T21:46:01.470Z,161187036147200
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:46:00.662Z,161187036066300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:45:54.960Z,161187035496100
+"River: 6♣, 3♠, 8♦, 2♦ [8♥]",2021-01-28T21:45:49.214Z,161187034921700
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:45:48.407Z,161187034840800
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:45:45.283Z,161187034528400
+"Turn: 6♣, 3♠, 8♦ [2♦]",2021-01-28T21:45:42.103Z,161187034210400
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:45:41.295Z,161187034129600
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:45:33.766Z,161187033376700
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:45:29.541Z,161187032954200
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:45:09.478Z,161187030947900
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:45:06.108Z,161187030610900
+"Flop:  [6♣, 3♠, 8♦]",2021-01-28T21:45:00.724Z,161187030072500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:44:59.916Z,161187029991700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:44:52.860Z,161187029286100
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:44:50.944Z,161187029094600
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:44:48.723Z,161187028872606
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:44:48.723Z,161187028872605
+"Your hand is A♥, J♦",2021-01-28T21:44:48.723Z,161187028872604
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (25.90) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.30) | #6 ""Scott @ Ce3DFmEur5"" (13.80)",2021-01-28T21:44:48.723Z,161187028872601
+"-- starting hand #50  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:44:48.723Z,161187028872600
+"-- ending hand #49 --",2021-01-28T21:44:42.696Z,161187028269802
+"""Scott @ Ce3DFmEur5"" collected 1.20 from pot with Straight, Q High (combination: Q♠, J♥, 10♣, 9♦, 8♥)",2021-01-28T21:44:42.696Z,161187028269801
+"""Scott @ Ce3DFmEur5"" shows a Q♠, J♥.",2021-01-28T21:44:42.696Z,161187028269800
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:44:41.887Z,161187028189100
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:44:39.283Z,161187027928400
+"River: 6♣, A♣, 8♥, 10♣ [9♦]",2021-01-28T21:44:29.199Z,161187026920100
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:44:28.389Z,161187026839000
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:44:20.712Z,161187026071300
+"Turn: 6♣, A♣, 8♥ [10♣]",2021-01-28T21:44:13.751Z,161187025375200
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:44:12.944Z,161187025294500
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:43:44.624Z,161187022462400
+"Flop:  [6♣, A♣, 8♥]",2021-01-28T21:43:41.900Z,161187022190200
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:43:41.095Z,161187022109600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:43:33.037Z,161187021303700
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:43:31.324Z,161187021132500
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:43:12.297Z,161187019229806
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:43:12.297Z,161187019229805
+"Your hand is Q♠, J♥",2021-01-28T21:43:12.297Z,161187019229804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.50) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.30) | #6 ""Scott @ Ce3DFmEur5"" (13.20)",2021-01-28T21:43:12.297Z,161187019229801
+"-- starting hand #49  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:43:12.297Z,161187019229800
+"-- ending hand #48 --",2021-01-28T21:43:09.386Z,161187018938702
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.80 from pot",2021-01-28T21:43:09.386Z,161187018938701
+"Uncalled bet of 0.60 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:43:09.386Z,161187018938700
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:43:08.581Z,161187018858200
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.60",2021-01-28T21:43:05.476Z,161187018547700
+"River: 5♦, 7♠, 3♥, 2♥ [K♣]",2021-01-28T21:42:56.205Z,161187017620700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:42:55.394Z,161187017539500
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:42:52.365Z,161187017236600
+"Turn: 5♦, 7♠, 3♥ [2♥]",2021-01-28T21:42:49.218Z,161187016921900
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:42:48.412Z,161187016841300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:42:44.349Z,161187016435000
+"Flop:  [5♦, 7♠, 3♥]",2021-01-28T21:42:13.892Z,161187013389300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T21:42:13.083Z,161187013308300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:42:09.415Z,161187012941600
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:42:03.572Z,161187012357300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:41:55.195Z,161187011519600
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:41:47.768Z,161187010777006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:41:47.768Z,161187010777005
+"Your hand is 2♣, 8♠",2021-01-28T21:41:47.768Z,161187010777004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.30) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.30) | #6 ""Scott @ Ce3DFmEur5"" (13.40)",2021-01-28T21:41:47.768Z,161187010777001
+"-- starting hand #48  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:41:47.768Z,161187010777000
+"-- ending hand #47 --",2021-01-28T21:41:44.843Z,161187010484402
+"""Dr Hurst @ b7rmnGbpoR"" collected 2.60 from pot",2021-01-28T21:41:44.843Z,161187010484401
+"Uncalled bet of 0.60 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:41:44.843Z,161187010484400
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:41:44.031Z,161187010403200
+"""Dr Hurst @ b7rmnGbpoR"" raises to 0.80",2021-01-28T21:41:27.038Z,161187008703900
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:41:20.443Z,161187008044400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:41:11.641Z,161187007164200
+"River: Q♦, J♣, 5♥, A♣ [4♥]",2021-01-28T21:41:06.751Z,161187006675300
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:41:05.944Z,161187006594500
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:40:53.005Z,161187005300900
+"Turn: Q♦, J♣, 5♥ [A♣]",2021-01-28T21:40:44.518Z,161187004452000
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:40:43.700Z,161187004370100
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:40:32.123Z,161187003212400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:40:21.712Z,161187002171300
+"Flop:  [Q♦, J♣, 5♥]",2021-01-28T21:40:15.958Z,161187001596300
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:40:15.145Z,161187001514600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:40:07.567Z,161187000756800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:40:04.777Z,161187000477700
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:39:59.779Z,161186999978006
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:39:59.779Z,161186999978005
+"Your hand is 10♣, J♠",2021-01-28T21:39:59.779Z,161186999978004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (25.90) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.50) | #6 ""Scott @ Ce3DFmEur5"" (14.60)",2021-01-28T21:39:59.779Z,161186999978001
+"-- starting hand #47  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:39:59.779Z,161186999978000
+"-- ending hand #46 --",2021-01-28T21:39:56.864Z,161186999686502
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.60 from pot",2021-01-28T21:39:56.864Z,161186999686501
+"Uncalled bet of 0.40 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:39:56.864Z,161186999686500
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:39:56.053Z,161186999605600
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:39:47.957Z,161186998795800
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:39:35.144Z,161186997514500
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:39:32.721Z,161186997272200
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:39:25.466Z,161186996546700
+"Flop:  [A♣, 10♦, 8♠]",2021-01-28T21:39:22.977Z,161186996297800
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:39:22.162Z,161186996216300
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:39:18.137Z,161186995813800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:39:16.141Z,161186995614100
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:39:08.838Z,161186994883906
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:39:08.838Z,161186994883905
+"Your hand is 3♠, 4♠",2021-01-28T21:39:08.838Z,161186994883904
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.10) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.10) | #6 ""Scott @ Ce3DFmEur5"" (14.80)",2021-01-28T21:39:08.838Z,161186994883901
+"-- starting hand #46  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:39:08.838Z,161186994883900
+"-- ending hand #45 --",2021-01-28T21:39:02.806Z,161186994280802
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.60 from pot with Two Pair, 9's & 8's (combination: 9♠, 9♦, 8♥, 8♦, J♣)",2021-01-28T21:39:02.806Z,161186994280801
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 9♠, J♣.",2021-01-28T21:39:02.806Z,161186994280800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:39:01.989Z,161186994199000
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:38:59.876Z,161186993987700
+"River: 9♦, 10♥, 3♥, 8♥ [8♦]",2021-01-28T21:38:50.433Z,161186993044000
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:38:49.618Z,161186992962000
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:38:47.951Z,161186992795200
+"Turn: 9♦, 10♥, 3♥ [8♥]",2021-01-28T21:38:42.153Z,161186992215400
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:38:41.347Z,161186992134800
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:38:36.742Z,161186991674300
+"Flop:  [9♦, 10♥, 3♥]",2021-01-28T21:38:31.908Z,161186991191100
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:38:31.093Z,161186991109400
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:38:29.603Z,161186990960400
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:38:21.225Z,161186990122600
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:38:17.717Z,161186989771906
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:38:17.717Z,161186989771905
+"Your hand is 6♦, 6♠",2021-01-28T21:38:17.717Z,161186989771904
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.10) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.30) | #6 ""Scott @ Ce3DFmEur5"" (15.60)",2021-01-28T21:38:17.717Z,161186989771901
+"-- starting hand #45  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:38:17.717Z,161186989771900
+"-- ending hand #44 --",2021-01-28T21:38:14.796Z,161186989479602
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.90 from pot",2021-01-28T21:38:14.796Z,161186989479601
+"Uncalled bet of 0.40 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:38:14.796Z,161186989479600
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:38:13.990Z,161186989399100
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:38:11.253Z,161186989125400
+"Turn: 6♣, 2♣, 4♣ [10♠]",2021-01-28T21:38:07.868Z,161186988787000
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:38:07.059Z,161186988706000
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:37:58.012Z,161186987801300
+"Flop:  [6♣, 2♣, 4♣]",2021-01-28T21:37:42.816Z,161186986281700
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:37:41.997Z,161186986199800
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:37:29.475Z,161186984947600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:37:27.784Z,161186984778500
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:37:25.451Z,161186984545206
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:37:25.451Z,161186984545205
+"Your hand is 4♠, K♥",2021-01-28T21:37:25.451Z,161186984545204
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.20) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.80) | #6 ""Scott @ Ce3DFmEur5"" (16.00)",2021-01-28T21:37:25.451Z,161186984545201
+"-- starting hand #44  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:37:25.451Z,161186984545200
+"-- ending hand #43 --",2021-01-28T21:37:19.409Z,161186983941002
+"""Scott @ Ce3DFmEur5"" collected 3.60 from pot with Three of a Kind, 10's (combination: 10♠, 10♣, 10♦, K♠, J♠)",2021-01-28T21:37:19.409Z,161186983941001
+"""Scott @ Ce3DFmEur5"" shows a 10♠, J♠.",2021-01-28T21:37:19.409Z,161186983941000
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:37:18.603Z,161186983860300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.60",2021-01-28T21:37:17.390Z,161186983739100
+"""Scott @ Ce3DFmEur5"" bets 0.60",2021-01-28T21:37:14.986Z,161186983498600
+"River: 10♣, 10♦, 7♣, K♠ [9♦]",2021-01-28T21:37:08.313Z,161186982831600
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:37:07.505Z,161186982750600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:37:03.217Z,161186982321800
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:37:01.251Z,161186982125200
+"Turn: 10♣, 10♦, 7♣ [K♠]",2021-01-28T21:36:51.146Z,161186981114800
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T21:36:50.338Z,161186981033900
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:36:48.551Z,161186980855100
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:36:45.124Z,161186980512500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:36:43.050Z,161186980305100
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:36:39.828Z,161186979982800
+"Flop:  [10♣, 10♦, 7♣]",2021-01-28T21:36:36.048Z,161186979604900
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:36:35.241Z,161186979524200
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:36:32.586Z,161186979258800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:36:31.569Z,161186979157000
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:36:27.824Z,161186978782506
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:36:27.824Z,161186978782505
+"Your hand is 10♠, J♠",2021-01-28T21:36:27.824Z,161186978782504
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.60) | #6 ""Scott @ Ce3DFmEur5"" (13.80)",2021-01-28T21:36:27.824Z,161186978782501
+"-- starting hand #43  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:36:27.824Z,161186978782500
+"-- ending hand #42 --",2021-01-28T21:36:24.884Z,161186978488502
+"""Scott @ Ce3DFmEur5"" collected 2.40 from pot",2021-01-28T21:36:24.884Z,161186978488501
+"Uncalled bet of 0.40 returned to ""Scott @ Ce3DFmEur5""",2021-01-28T21:36:24.884Z,161186978488500
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:36:24.076Z,161186978407700
+"""Scott @ Ce3DFmEur5"" bets 0.40",2021-01-28T21:36:17.548Z,161186977754800
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:36:13.328Z,161186977332800
+"River: 2♠, K♠, 6♣, Q♥ [5♥]",2021-01-28T21:36:06.421Z,161186976642800
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:36:05.610Z,161186976561100
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:36:03.984Z,161186976398500
+"Turn: 2♠, K♠, 6♣ [Q♥]",2021-01-28T21:35:59.690Z,161186975969100
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:35:58.882Z,161186975888300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:35:53.924Z,161186975392500
+"Flop:  [2♠, K♠, 6♣]",2021-01-28T21:35:49.825Z,161186974982600
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:35:49.018Z,161186974901900
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:35:46.261Z,161186974626200
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:35:29.467Z,161186972946700
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:35:26.195Z,161186972619606
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:35:26.195Z,161186972619605
+"Your hand is K♦, 7♣",2021-01-28T21:35:26.195Z,161186972619604
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.80) | #6 ""Scott @ Ce3DFmEur5"" (12.60)",2021-01-28T21:35:26.195Z,161186972619601
+"-- starting hand #42  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:35:26.195Z,161186972619600
+"-- ending hand #41 --",2021-01-28T21:35:23.265Z,161186972326602
+"""Scott @ Ce3DFmEur5"" collected 0.60 from pot",2021-01-28T21:35:23.265Z,161186972326601
+"Uncalled bet of 2.00 returned to ""Scott @ Ce3DFmEur5""",2021-01-28T21:35:23.265Z,161186972326600
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:35:22.459Z,161186972245900
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:35:17.158Z,161186971715900
+"""Scott @ Ce3DFmEur5"" bets 2.00",2021-01-28T21:35:14.993Z,161186971499400
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:35:05.468Z,161186970546900
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:34:56.519Z,161186969652000
+"River: 6♥, 4♣, J♦, A♠ [7♣]",2021-01-28T21:34:52.463Z,161186969246600
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:34:51.658Z,161186969165900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:34:49.878Z,161186968987800
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:34:45.192Z,161186968519300
+"Turn: 6♥, 4♣, J♦ [A♠]",2021-01-28T21:34:37.377Z,161186967737800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:34:36.569Z,161186967657000
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:34:35.627Z,161186967562700
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:34:18.500Z,161186965850100
+"Flop:  [6♥, 4♣, J♦]",2021-01-28T21:34:11.101Z,161186965110200
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:34:10.291Z,161186965029200
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:34:06.114Z,161186964611500
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:34:03.777Z,161186964377800
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:34:01.665Z,161186964166606
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:34:01.665Z,161186964166605
+"Your hand is A♥, 4♦",2021-01-28T21:34:01.665Z,161186964166604
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.80) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.00) | #6 ""Scott @ Ce3DFmEur5"" (12.20)",2021-01-28T21:34:01.665Z,161186964166601
+"-- starting hand #41  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:34:01.665Z,161186964166600
+"-- ending hand #40 --",2021-01-28T21:33:58.752Z,161186963875302
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.40 from pot",2021-01-28T21:33:58.752Z,161186963875301
+"Uncalled bet of 0.40 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:33:58.752Z,161186963875300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:33:57.946Z,161186963794700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:33:54.577Z,161186963457800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:33:48.538Z,161186962853800
+"Turn: 3♣, 9♣, 6♥ [8♠]",2021-01-28T21:33:40.365Z,161186962036600
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:33:39.559Z,161186961956000
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:33:38.660Z,161186961866100
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:33:12.023Z,161186959202400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:33:04.694Z,161186958469900
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:33:02.992Z,161186958299300
+"Flop:  [3♣, 9♣, 6♥]",2021-01-28T21:32:58.464Z,161186957846500
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:32:57.658Z,161186957765900
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:32:55.291Z,161186957529100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:32:47.660Z,161186956766100
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:32:32.489Z,161186955249006
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:32:32.489Z,161186955249005
+"Your hand is 10♥, 5♦",2021-01-28T21:32:32.489Z,161186955249004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (28.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.20) | #6 ""Scott @ Ce3DFmEur5"" (12.80)",2021-01-28T21:32:32.489Z,161186955249001
+"-- starting hand #40  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:32:32.489Z,161186955249000
+"-- ending hand #39 --",2021-01-28T21:32:26.476Z,161186954647802
+"""Also a DR @ Y1Q6ty6Yvq"" collected 2.00 from pot with Two Pair, 8's & 4's (combination: 8♥, 8♠, 4♥, 4♠, K♠)",2021-01-28T21:32:26.476Z,161186954647801
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 4♥, 4♠.",2021-01-28T21:32:26.476Z,161186954647800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:32:25.668Z,161186954566900
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:32:09.447Z,161186952944800
+"River: 8♥, 8♠, K♠, 7♠ [2♣]",2021-01-28T21:31:48.340Z,161186950834300
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:31:47.535Z,161186950753600
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:31:26.784Z,161186948678500
+"Turn: 8♥, 8♠, K♠ [7♠]",2021-01-28T21:31:21.911Z,161186948191300
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:31:21.104Z,161186948110500
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:31:11.563Z,161186947156400
+"Flop:  [8♥, 8♠, K♠]",2021-01-28T21:31:07.055Z,161186946705600
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:31:06.242Z,161186946624200
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:31:03.566Z,161186946356700
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:30:59.569Z,161186945957000
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:30:57.140Z,161186945714406
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:30:57.140Z,161186945714405
+"Your hand is A♣, J♣",2021-01-28T21:30:57.140Z,161186945714404
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (28.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.20) | #6 ""Scott @ Ce3DFmEur5"" (13.80)",2021-01-28T21:30:57.140Z,161186945714401
+"-- starting hand #39  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:30:57.140Z,161186945714400
+"-- ending hand #38 --",2021-01-28T21:30:54.204Z,161186945420502
+"""Also a DR @ Y1Q6ty6Yvq"" collected 2.10 from pot",2021-01-28T21:30:54.204Z,161186945420501
+"Uncalled bet of 0.40 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:30:54.204Z,161186945420500
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:30:53.397Z,161186945339700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:30:46.225Z,161186944622600
+"Turn: 7♣, K♠, 4♣ [10♣]",2021-01-28T21:30:40.863Z,161186944086500
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:30:40.056Z,161186944005900
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:30:37.383Z,161186943738400
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:30:07.579Z,161186940758000
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:30:04.867Z,161186940486800
+"Flop:  [7♣, K♠, 4♣]",2021-01-28T21:30:00.805Z,161186940080600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T21:29:59.997Z,161186939999800
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:29:58.221Z,161186939822200
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:29:52.932Z,161186939293300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:27:34.987Z,161186925498900
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:27:32.059Z,161186925206000
+"""Dr Hurst @ b7rmnGbpoR"" posts a missing small blind of 0.10",2021-01-28T21:27:24.853Z,161186924485608
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:27:24.853Z,161186924485607
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:27:24.853Z,161186924485606
+"Your hand is J♣, 6♠",2021-01-28T21:27:24.853Z,161186924485605
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (28.50) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (16.90) | #6 ""Scott @ Ce3DFmEur5"" (14.60)",2021-01-28T21:27:24.853Z,161186924485602
+"-- starting hand #38  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:27:24.853Z,161186924485601
+"The player ""Dr Hurst @ b7rmnGbpoR"" joined the game with a stack of 28.50.",2021-01-28T21:27:24.853Z,161186924485600
+"The player ""Dr Hurst @ b7rmnGbpoR"" sit back with the stack of 28.50.",2021-01-28T21:26:06.255Z,161186916625600
+"-- ending hand #37 --",2021-01-28T21:26:02.932Z,161186916293302
+"""Scott @ Ce3DFmEur5"" collected 0.20 from pot",2021-01-28T21:26:02.932Z,161186916293301
+"Uncalled bet of 0.10 returned to ""Scott @ Ce3DFmEur5""",2021-01-28T21:26:02.932Z,161186916293300
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:26:02.125Z,161186916212600
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:25:58.845Z,161186915884706
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:25:58.845Z,161186915884705
+"Your hand is A♦, 5♥",2021-01-28T21:25:58.845Z,161186915884704
+"Player stacks: #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.00) | #6 ""Scott @ Ce3DFmEur5"" (14.50)",2021-01-28T21:25:58.845Z,161186915884702
+"-- starting hand #37  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:25:58.845Z,161186915884701
+"The player ""Dr Hurst @ b7rmnGbpoR"" stand up with the stack of 28.50.",2021-01-28T21:25:58.845Z,161186915884700
+"-- ending hand #36 --",2021-01-28T21:25:52.815Z,161186915281702
+"""Dr Hurst @ b7rmnGbpoR"" collected 2.10 from pot with Three of a Kind, 8's (combination: 8♠, 8♦, 8♥, A♥, K♥)",2021-01-28T21:25:52.815Z,161186915281701
+"""Dr Hurst @ b7rmnGbpoR"" shows a K♥, A♥.",2021-01-28T21:25:52.815Z,161186915281700
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:25:52.006Z,161186915200700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:25:38.828Z,161186913882800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:25:31.338Z,161186913133900
+"River: 9♣, 4♣, 8♠, 8♦ [8♥]",2021-01-28T21:25:24.733Z,161186912473600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:25:23.906Z,161186912390700
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:25:21.925Z,161186912192600
+"Turn: 9♣, 4♣, 8♠ [8♦]",2021-01-28T21:25:13.935Z,161186911393700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:25:13.128Z,161186911312900
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:25:04.036Z,161186910403700
+"Flop:  [9♣, 4♣, 8♠]",2021-01-28T21:24:56.560Z,161186909656100
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:24:55.752Z,161186909575300
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:24:54.722Z,161186909472300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:24:49.541Z,161186908954200
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:24:41.068Z,161186908107006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:24:41.068Z,161186908107005
+"Your hand is 10♥, 7♦",2021-01-28T21:24:41.068Z,161186908107004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.40) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.10) | #6 ""Scott @ Ce3DFmEur5"" (15.50)",2021-01-28T21:24:41.068Z,161186908107001
+"-- starting hand #36  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:24:41.068Z,161186908107000
+"-- ending hand #35 --",2021-01-28T21:24:38.140Z,161186907814102
+"""Dr Hurst @ b7rmnGbpoR"" collected 1.60 from pot",2021-01-28T21:24:38.140Z,161186907814101
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:24:38.140Z,161186907814100
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:24:37.328Z,161186907732900
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:24:25.759Z,161186906576000
+"Turn: A♦, K♣, 5♦ [A♥]",2021-01-28T21:24:15.986Z,161186905598800
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.60",2021-01-28T21:24:15.179Z,161186905517900
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.60",2021-01-28T21:24:10.470Z,161186905047100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:24:06.005Z,161186904600600
+"Flop:  [A♦, K♣, 5♦]",2021-01-28T21:24:01.308Z,161186904130900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:24:00.497Z,161186904049800
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:23:57.945Z,161186903794600
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:23:53.863Z,161186903386400
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:23:52.336Z,161186903233706
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:23:52.336Z,161186903233705
+"Your hand is 8♦, 3♣",2021-01-28T21:23:52.336Z,161186903233704
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.90) | #6 ""Scott @ Ce3DFmEur5"" (15.50)",2021-01-28T21:23:52.336Z,161186903233701
+"-- starting hand #35  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:23:52.336Z,161186903233700
+"-- ending hand #34 --",2021-01-28T21:23:49.409Z,161186902941002
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.40 from pot",2021-01-28T21:23:49.409Z,161186902941001
+"Uncalled bet of 0.40 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:23:49.409Z,161186902941000
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:23:48.602Z,161186902860300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:23:47.170Z,161186902717100
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:23:43.087Z,161186902308800
+"River: 6♠, 5♣, 2♣, 10♠ [10♥]",2021-01-28T21:23:40.853Z,161186902085600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:23:40.028Z,161186902003100
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:23:32.908Z,161186901290900
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:23:31.375Z,161186901137600
+"Turn: 6♠, 5♣, 2♣ [10♠]",2021-01-28T21:23:24.664Z,161186900466600
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:23:23.857Z,161186900385700
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:23:18.365Z,161186899836500
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:23:14.241Z,161186899424200
+"Flop:  [6♠, 5♣, 2♣]",2021-01-28T21:22:53.304Z,161186897330500
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:22:52.474Z,161186897247500
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:22:44.830Z,161186896483100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:22:43.891Z,161186896389100
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:22:20.800Z,161186894080206
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:22:20.800Z,161186894080205
+"Your hand is K♥, J♣",2021-01-28T21:22:20.800Z,161186894080204
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (26.80) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.10) | #6 ""Scott @ Ce3DFmEur5"" (16.10)",2021-01-28T21:22:20.800Z,161186894080201
+"-- starting hand #34  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:22:20.800Z,161186894080200
+"-- ending hand #33 --",2021-01-28T21:22:17.881Z,161186893788102
+"""Dr Hurst @ b7rmnGbpoR"" collected 2.20 from pot",2021-01-28T21:22:17.881Z,161186893788101
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:22:17.881Z,161186893788100
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:22:17.074Z,161186893707500
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:22:15.835Z,161186893583600
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:22:09.900Z,161186892990000
+"River: 9♥, 8♥, 6♠, 2♦ [4♦]",2021-01-28T21:22:01.848Z,161186892185100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T21:22:01.043Z,161186892104300
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:21:57.919Z,161186891792000
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:21:52.772Z,161186891277300
+"Turn: 9♥, 8♥, 6♠ [2♦]",2021-01-28T21:21:43.812Z,161186890381300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:21:43.004Z,161186890300500
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T21:21:37.908Z,161186889790800
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:21:16.474Z,161186887647500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:21:04.914Z,161186886491500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:20:57.624Z,161186885762500
+"Flop:  [9♥, 8♥, 6♠]",2021-01-28T21:20:38.205Z,161186883820600
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:20:37.397Z,161186883739800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:20:27.813Z,161186882781400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:20:21.214Z,161186882121500
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:20:17.218Z,161186881721906
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:20:17.218Z,161186881721905
+"Your hand is Q♥, 4♣",2021-01-28T21:20:17.218Z,161186881721904
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (25.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.10) | #6 ""Scott @ Ce3DFmEur5"" (16.30)",2021-01-28T21:20:17.218Z,161186881721901
+"-- starting hand #33  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:20:17.218Z,161186881721900
+"-- ending hand #32 --",2021-01-28T21:20:11.183Z,161186881118502
+"""Also a DR @ Y1Q6ty6Yvq"" collected 2.10 from pot with Two Pair, Q's & 8's (combination: Q♥, Q♠, 8♠, 8♣, A♠)",2021-01-28T21:20:11.183Z,161186881118501
+"""Also a DR @ Y1Q6ty6Yvq"" shows a Q♥, K♣.",2021-01-28T21:20:11.183Z,161186881118500
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:20:10.376Z,161186881037700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:19:55.384Z,161186879538500
+"River: 9♣, A♠, 8♠, Q♠ [8♣]",2021-01-28T21:19:45.845Z,161186878584900
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:19:45.036Z,161186878503700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:19:36.367Z,161186877636800
+"Turn: 9♣, A♠, 8♠ [Q♠]",2021-01-28T21:19:33.515Z,161186877351700
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:19:32.707Z,161186877270800
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:19:29.069Z,161186876907100
+"Flop:  [9♣, A♠, 8♠]",2021-01-28T21:18:58.175Z,161186873817700
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:18:57.369Z,161186873737000
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:18:53.306Z,161186873330700
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:18:45.460Z,161186872546100
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:18:41.161Z,161186872116200
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:18:37.791Z,161186871779306
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:18:37.791Z,161186871779305
+"Your hand is K♥, 9♦",2021-01-28T21:18:37.791Z,161186871779304
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (25.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.00) | #6 ""Scott @ Ce3DFmEur5"" (17.30)",2021-01-28T21:18:37.791Z,161186871779301
+"-- starting hand #32  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:18:37.791Z,161186871779300
+"-- ending hand #31 --",2021-01-28T21:18:34.859Z,161186871486002
+"""Also a DR @ Y1Q6ty6Yvq"" collected 3.20 from pot",2021-01-28T21:18:34.859Z,161186871486001
+"Uncalled bet of 0.80 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:18:34.859Z,161186871486000
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:18:34.049Z,161186871405200
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 1.20",2021-01-28T21:18:29.537Z,161186870953800
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:18:19.218Z,161186869921900
+"River: K♣, 7♥, 4♦, 9♣ [2♣]",2021-01-28T21:18:07.600Z,161186868760300
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T21:18:06.794Z,161186868679500
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:18:02.253Z,161186868225400
+"Turn: K♣, 7♥, 4♦ [9♣]",2021-01-28T21:17:53.669Z,161186867367100
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:17:52.863Z,161186867286400
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T21:17:50.795Z,161186867079600
+"""Dr Hurst @ b7rmnGbpoR"" raises to 0.40",2021-01-28T21:17:46.053Z,161186866605400
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:17:38.733Z,161186865873400
+"Flop:  [K♣, 7♥, 4♦]",2021-01-28T21:17:35.009Z,161186865501000
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:17:34.201Z,161186865420200
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:17:29.794Z,161186864979500
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:17:28.128Z,161186864812800
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:17:18.056Z,161186863805706
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:17:18.056Z,161186863805705
+"Your hand is 7♦, 8♣",2021-01-28T21:17:18.056Z,161186863805704
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.10) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (15.20) | #6 ""Scott @ Ce3DFmEur5"" (17.70)",2021-01-28T21:17:18.056Z,161186863805701
+"-- starting hand #31  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:17:18.056Z,161186863805700
+"-- ending hand #30 --",2021-01-28T21:17:12.014Z,161186863201502
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.80 from pot with Pair, 5's (combination: 5♥, 5♣, K♦, Q♥, 10♠)",2021-01-28T21:17:12.014Z,161186863201501
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 8♦, 5♥.",2021-01-28T21:17:12.014Z,161186863201500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:17:11.208Z,161186863120900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:17:09.685Z,161186862968600
+"River: Q♥, 3♠, 10♠, 5♣ [K♦]",2021-01-28T21:17:05.217Z,161186862521900
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:17:04.396Z,161186862440000
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:17:00.305Z,161186862030600
+"Turn: Q♥, 3♠, 10♠ [5♣]",2021-01-28T21:16:58.545Z,161186861854700
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:16:57.731Z,161186861773200
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:16:56.790Z,161186861679100
+"Flop:  [Q♥, 3♠, 10♠]",2021-01-28T21:16:51.970Z,161186861197100
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:16:51.165Z,161186861116500
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:16:49.195Z,161186860919600
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:16:41.598Z,161186860159800
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:16:38.136Z,161186859813706
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:16:38.136Z,161186859813705
+"Your hand is 6♣, 4♠",2021-01-28T21:16:38.136Z,161186859813704
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.10) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (14.80) | #6 ""Scott @ Ce3DFmEur5"" (18.10)",2021-01-28T21:16:38.136Z,161186859813701
+"-- starting hand #30  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:16:38.136Z,161186859813700
+"-- ending hand #29 --",2021-01-28T21:16:35.210Z,161186859521102
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.20 from pot",2021-01-28T21:16:35.210Z,161186859521101
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:16:35.210Z,161186859521100
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:16:34.399Z,161186859439900
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:16:30.014Z,161186859001400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:16:27.668Z,161186858766900
+"Turn: 5♦, 2♠, 7♣ [J♠]",2021-01-28T21:16:20.558Z,161186858055900
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:16:19.751Z,161186857975100
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:16:03.153Z,161186856315400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:15:57.418Z,161186855741900
+"Flop:  [5♦, 2♠, 7♣]",2021-01-28T21:15:41.560Z,161186854156100
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:15:40.752Z,161186854075300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:15:34.847Z,161186853484800
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:15:28.073Z,161186852807400
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:14:58.937Z,161186849893806
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:14:58.937Z,161186849893805
+"Your hand is 5♠, 9♣",2021-01-28T21:14:58.937Z,161186849893804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (27.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (14.20) | #6 ""Scott @ Ce3DFmEur5"" (18.10)",2021-01-28T21:14:58.937Z,161186849893801
+"-- starting hand #29  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:14:58.937Z,161186849893800
+"-- ending hand #28 --",2021-01-28T21:14:52.914Z,161186849291503
+"""Scott @ Ce3DFmEur5"" shows a 4♥, 8♠.",2021-01-28T21:14:52.914Z,161186849291502
+"""Dr Hurst @ b7rmnGbpoR"" collected 8.00 from pot with Full House, K's over 9's (combination: K♥, K♣, K♠, 9♠, 9♣)",2021-01-28T21:14:52.914Z,161186849291501
+"""Dr Hurst @ b7rmnGbpoR"" shows a 9♠, 9♣.",2021-01-28T21:14:52.914Z,161186849291500
+"""Dr Hurst @ b7rmnGbpoR"" calls 3.00",2021-01-28T21:14:52.097Z,161186849209800
+"""Scott @ Ce3DFmEur5"" raises to 3.00",2021-01-28T21:14:39.493Z,161186847949400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.80",2021-01-28T21:14:33.272Z,161186847327300
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:14:26.602Z,161186846660200
+"River: K♥, K♣, K♠, 8♥ [2♦]",2021-01-28T21:14:19.470Z,161186845947800
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:14:18.663Z,161186845866300
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:14:16.375Z,161186845637600
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:14:11.708Z,161186845170900
+"Turn: K♥, K♣, K♠ [8♥]",2021-01-28T21:14:06.667Z,161186844666900
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:14:05.861Z,161186844586100
+"""Dr Hurst @ b7rmnGbpoR"" raises to 0.40",2021-01-28T21:13:51.817Z,161186843181900
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:13:42.469Z,161186842247000
+"Flop:  [K♥, K♣, K♠]",2021-01-28T21:13:27.052Z,161186840705300
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:13:26.245Z,161186840624600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:13:18.237Z,161186839823700
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:13:10.961Z,161186839096200
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:13:08.466Z,161186838846806
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:13:08.466Z,161186838846805
+"Your hand is 4♥, 8♠",2021-01-28T21:13:08.466Z,161186838846804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (23.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (14.20) | #6 ""Scott @ Ce3DFmEur5"" (22.10)",2021-01-28T21:13:08.466Z,161186838846801
+"-- starting hand #28  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:13:08.466Z,161186838846800
+"-- ending hand #27 --",2021-01-28T21:13:02.426Z,161186838242802
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.20 from pot with Pair, 5's (combination: 5♥, 5♦, A♣, Q♥, 10♠)",2021-01-28T21:13:02.426Z,161186838242801
+"""Also a DR @ Y1Q6ty6Yvq"" shows a A♣, 2♠.",2021-01-28T21:13:02.426Z,161186838242800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:13:01.620Z,161186838162100
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:12:58.858Z,161186837885900
+"River: 10♠, 5♥, Q♥, 5♦ [6♥]",2021-01-28T21:12:56.212Z,161186837621500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:12:55.404Z,161186837540500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:12:54.469Z,161186837447000
+"Turn: 10♠, 5♥, Q♥ [5♦]",2021-01-28T21:12:46.577Z,161186836657900
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:12:45.768Z,161186836576900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:12:44.824Z,161186836482400
+"Flop:  [10♠, 5♥, Q♥]",2021-01-28T21:12:32.674Z,161186835267500
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:12:31.868Z,161186835186900
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:12:23.722Z,161186834372300
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:12:11.488Z,161186833148900
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:12:06.400Z,161186832640106
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:12:06.400Z,161186832640105
+"Your hand is 8♣, 7♦",2021-01-28T21:12:06.400Z,161186832640104
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (23.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (13.60) | #6 ""Scott @ Ce3DFmEur5"" (22.70)",2021-01-28T21:12:06.400Z,161186832640101
+"-- starting hand #27  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:12:06.400Z,161186832640100
+"-- ending hand #26 --",2021-01-28T21:12:03.494Z,161186832349502
+"""Dr Hurst @ b7rmnGbpoR"" collected 1.80 from pot",2021-01-28T21:12:03.494Z,161186832349501
+"Uncalled bet of 0.80 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:12:03.494Z,161186832349500
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:12:02.687Z,161186832268800
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.80",2021-01-28T21:11:59.918Z,161186831991900
+"River: 6♣, 10♥, J♥, 2♠ [7♦]",2021-01-28T21:11:53.573Z,161186831357500
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:11:52.766Z,161186831276700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:11:45.098Z,161186830509900
+"Turn: 6♣, 10♥, J♥ [2♠]",2021-01-28T21:11:35.302Z,161186829530300
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:11:34.490Z,161186829449100
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:11:30.469Z,161186829047000
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:11:22.074Z,161186828207500
+"Flop:  [6♣, 10♥, J♥]",2021-01-28T21:11:13.583Z,161186827358500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:11:12.763Z,161186827276400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:11:05.783Z,161186826578400
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:11:04.877Z,161186826487800
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:10:57.676Z,161186825767706
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:10:57.676Z,161186825767705
+"Your hand is 10♠, A♠",2021-01-28T21:10:57.676Z,161186825767704
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (13.80) | #6 ""Scott @ Ce3DFmEur5"" (23.50)",2021-01-28T21:10:57.676Z,161186825767701
+"-- starting hand #26  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:10:57.676Z,161186825767700
+"-- ending hand #25 --",2021-01-28T21:10:51.641Z,161186825164302
+"""Scott @ Ce3DFmEur5"" collected 8.60 from pot with Full House, 7's over A's (combination: 7♦, 7♥, 7♣, A♥, A♣)",2021-01-28T21:10:51.641Z,161186825164301
+"""Scott @ Ce3DFmEur5"" shows a 7♦, 7♥.",2021-01-28T21:10:51.641Z,161186825164300
+"""Also a DR @ Y1Q6ty6Yvq"" calls 3.00",2021-01-28T21:10:50.834Z,161186825083500
+"""Scott @ Ce3DFmEur5"" raises to 3.00",2021-01-28T21:10:17.854Z,161186821785500
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.80",2021-01-28T21:10:11.720Z,161186821172100
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:10:05.073Z,161186820507400
+"River: 9♦, 7♣, A♥, A♣ [Q♣]",2021-01-28T21:09:59.471Z,161186819947400
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:09:58.662Z,161186819866300
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:09:55.884Z,161186819588500
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:09:49.413Z,161186818941400
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:09:45.537Z,161186818553800
+"Turn: 9♦, 7♣, A♥ [A♣]",2021-01-28T21:09:36.863Z,161186817686400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T21:09:36.053Z,161186817605400
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:09:25.450Z,161186816545000
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:09:22.604Z,161186816260500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:09:13.023Z,161186815302300
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:09:07.695Z,161186814769600
+"Flop:  [9♦, 7♣, A♥]",2021-01-28T21:09:01.250Z,161186814125200
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:09:00.426Z,161186814042600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:08:59.500Z,161186813950100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:08:58.499Z,161186813850000
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:08:35.560Z,161186811556106
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:08:35.560Z,161186811556105
+"Your hand is 7♦, 7♥",2021-01-28T21:08:35.560Z,161186811556104
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (23.30) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.80) | #6 ""Scott @ Ce3DFmEur5"" (18.90)",2021-01-28T21:08:35.560Z,161186811556101
+"-- starting hand #25  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:08:35.560Z,161186811556100
+"-- ending hand #24 --",2021-01-28T21:08:29.534Z,161186810953802
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.40 from pot with Pair, J's (combination: J♠, J♦, Q♦, 10♠, 7♣)",2021-01-28T21:08:29.534Z,161186810953801
+"""Also a DR @ Y1Q6ty6Yvq"" shows a Q♦, 7♣.",2021-01-28T21:08:29.534Z,161186810953800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:08:28.728Z,161186810872900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:08:27.618Z,161186810761900
+"River: 3♣, 6♦, J♠, J♦ [10♠]",2021-01-28T21:08:24.522Z,161186810452400
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:08:23.714Z,161186810371500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:08:21.072Z,161186810107300
+"Turn: 3♣, 6♦, J♠ [J♦]",2021-01-28T21:08:13.544Z,161186809354600
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:08:12.723Z,161186809272400
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:08:10.063Z,161186809006400
+"Flop:  [3♣, 6♦, J♠]",2021-01-28T21:08:06.367Z,161186808636700
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:08:05.558Z,161186808555900
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:08:04.612Z,161186808461300
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:07:55.043Z,161186807504400
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:07:52.265Z,161186807226606
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:07:52.265Z,161186807226605
+"Your hand is 7♦, 4♣",2021-01-28T21:07:52.265Z,161186807226604
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (23.30) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.60) | #6 ""Scott @ Ce3DFmEur5"" (19.10)",2021-01-28T21:07:52.265Z,161186807226601
+"-- starting hand #24  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:07:52.265Z,161186807226600
+"-- ending hand #23 --",2021-01-28T21:07:46.226Z,161186806622802
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.60 from pot with Pair, 2's (combination: 2♦, 2♠, A♥, K♣, 8♥)",2021-01-28T21:07:46.226Z,161186806622801
+"""Dr Hurst @ b7rmnGbpoR"" shows a A♥, K♣.",2021-01-28T21:07:46.226Z,161186806622800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:07:45.418Z,161186806541900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:07:43.480Z,161186806348200
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:07:42.248Z,161186806224800
+"River: 7♠, 3♠, 8♥, 2♦ [2♠]",2021-01-28T21:07:33.972Z,161186805397400
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:07:33.164Z,161186805316500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:07:32.208Z,161186805220900
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:07:15.842Z,161186803584300
+"Turn: 7♠, 3♠, 8♥ [2♦]",2021-01-28T21:07:09.126Z,161186802912700
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:07:08.318Z,161186802831900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:06:52.484Z,161186801248400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:06:29.656Z,161186798965700
+"Flop:  [7♠, 3♠, 8♥]",2021-01-28T21:06:20.363Z,161186798036500
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:06:19.553Z,161186797955400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:06:15.384Z,161186797538400
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:06:13.596Z,161186797359700
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:06:10.397Z,161186797039806
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:06:10.397Z,161186797039805
+"Your hand is 10♣, A♠",2021-01-28T21:06:10.397Z,161186797039804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.90) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (17.80) | #6 ""Scott @ Ce3DFmEur5"" (19.30)",2021-01-28T21:06:10.397Z,161186797039801
+"-- starting hand #23  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:06:10.397Z,161186797039800
+"-- ending hand #22 --",2021-01-28T21:06:04.353Z,161186796435603
+"""Also a DR @ Y1Q6ty6Yvq"" shows a J♦, 6♥.",2021-01-28T21:06:04.353Z,161186796435602
+"""Scott @ Ce3DFmEur5"" collected 3.40 from pot with Two Pair, K's & 7's (combination: K♦, K♣, 7♥, 7♣, 10♣)",2021-01-28T21:06:04.353Z,161186796435601
+"""Scott @ Ce3DFmEur5"" shows a K♦, 8♥.",2021-01-28T21:06:04.353Z,161186796435600
+"""Scott @ Ce3DFmEur5"" calls 0.80",2021-01-28T21:06:03.520Z,161186796352400
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.80",2021-01-28T21:05:59.972Z,161186795997300
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:05:50.545Z,161186795054600
+"River: 7♥, 10♣, 7♣, K♣ [6♠]",2021-01-28T21:05:46.338Z,161186794634000
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:05:45.531Z,161186794553200
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T21:05:33.975Z,161186793397500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:05:30.342Z,161186793034300
+"Turn: 7♥, 10♣, 7♣ [K♣]",2021-01-28T21:05:25.430Z,161186792543200
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:05:24.608Z,161186792460900
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:05:21.493Z,161186792149400
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T21:05:13.079Z,161186791308000
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:05:11.538Z,161186791153800
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:05:05.937Z,161186790593800
+"Flop:  [7♥, 10♣, 7♣]",2021-01-28T21:05:01.699Z,161186790170000
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:05:00.889Z,161186790089000
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T21:04:56.583Z,161186789658400
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:04:53.778Z,161186789377900
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:04:46.556Z,161186788655806
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:04:46.556Z,161186788655805
+"Your hand is K♦, 8♥",2021-01-28T21:04:46.556Z,161186788655804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (23.10) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.40) | #6 ""Scott @ Ce3DFmEur5"" (17.50)",2021-01-28T21:04:46.556Z,161186788655801
+"-- starting hand #22  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:04:46.556Z,161186788655800
+"-- ending hand #21 --",2021-01-28T21:04:43.636Z,161186788363702
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.60 from pot",2021-01-28T21:04:43.636Z,161186788363701
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:04:43.636Z,161186788363700
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:04:42.819Z,161186788282000
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:04:22.685Z,161186786268500
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:04:19.067Z,161186785906900
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:04:13.461Z,161186785346200
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:04:12.196Z,161186785220000
+"Flop:  [K♠, Q♦, 4♦]",2021-01-28T21:03:43.752Z,161186782375300
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:03:42.934Z,161186782293500
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:03:41.929Z,161186782193000
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:03:33.119Z,161186781311900
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:03:28.709Z,161186780871006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:03:28.709Z,161186780871005
+"Your hand is J♦, 8♣",2021-01-28T21:03:28.709Z,161186780871004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.60) | #6 ""Scott @ Ce3DFmEur5"" (17.70)",2021-01-28T21:03:28.709Z,161186780871001
+"-- starting hand #21  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:03:28.709Z,161186780871000
+"-- ending hand #20 --",2021-01-28T21:03:25.796Z,161186780579702
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.40 from pot",2021-01-28T21:03:25.796Z,161186780579701
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T21:03:25.796Z,161186780579700
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:03:24.983Z,161186780498400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:03:22.853Z,161186780285400
+"Flop:  [7♥, A♦, 2♣]",2021-01-28T21:03:11.328Z,161186779132900
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:03:10.520Z,161186779052100
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:03:06.442Z,161186778644300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:03:03.934Z,161186778393500
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:02:55.694Z,161186777569506
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:02:55.694Z,161186777569505
+"Your hand is J♠, 4♣",2021-01-28T21:02:55.694Z,161186777569504
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.50) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.80) | #6 ""Scott @ Ce3DFmEur5"" (17.70)",2021-01-28T21:02:55.694Z,161186777569501
+"-- starting hand #20  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:02:55.694Z,161186777569500
+"-- ending hand #19 --",2021-01-28T21:02:52.758Z,161186777275902
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.50 from pot",2021-01-28T21:02:52.758Z,161186777275901
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:02:52.758Z,161186777275900
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:02:51.953Z,161186777195400
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:02:45.741Z,161186776574200
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T21:02:36.975Z,161186775697600
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T21:02:20.509Z,161186774051006
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T21:02:20.509Z,161186774051005
+"Your hand is 4♥, 10♥",2021-01-28T21:02:20.509Z,161186774051004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.70) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.50) | #6 ""Scott @ Ce3DFmEur5"" (17.80)",2021-01-28T21:02:20.509Z,161186774051001
+"-- starting hand #19  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T21:02:20.509Z,161186774051000
+"-- ending hand #18 --",2021-01-28T21:02:14.483Z,161186773448402
+"""Dr Hurst @ b7rmnGbpoR"" collected 2.10 from pot with Pair, 10's (combination: 10♠, 10♥, 9♣, 8♦, 6♣)",2021-01-28T21:02:14.483Z,161186773448401
+"""Dr Hurst @ b7rmnGbpoR"" shows a 8♦, 10♠.",2021-01-28T21:02:14.483Z,161186773448400
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T21:02:13.668Z,161186773366900
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T21:02:10.482Z,161186773048300
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:02:04.680Z,161186772468100
+"River: 10♥, 9♣, 6♣, 3♥ [2♣]",2021-01-28T21:02:00.260Z,161186772026300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:01:59.450Z,161186771945100
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:01:57.341Z,161186771734100
+"Turn: 10♥, 9♣, 6♣ [3♥]",2021-01-28T21:01:46.305Z,161186770630700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:01:45.487Z,161186770548900
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T21:01:39.649Z,161186769965000
+"Flop:  [10♥, 9♣, 6♣]",2021-01-28T21:01:30.006Z,161186769000700
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T21:01:29.196Z,161186768919700
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T21:01:19.115Z,161186767911600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:01:12.720Z,161186767272000
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T21:00:57.089Z,161186765709006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T21:00:57.089Z,161186765709005
+"Your hand is 6♥, J♥",2021-01-28T21:00:57.089Z,161186765709004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (21.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.60) | #6 ""Scott @ Ce3DFmEur5"" (18.80)",2021-01-28T21:00:57.089Z,161186765709001
+"-- starting hand #18  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T21:00:57.089Z,161186765709000
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 3♣, 10♣.",2021-01-28T21:00:54.626Z,161186765462700
+"-- ending hand #17 --",2021-01-28T21:00:50.577Z,161186765057802
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.80 from pot with Two Pair, 8's & 2's (combination: 8♦, 8♥, 2♣, 2♦, Q♣)",2021-01-28T21:00:50.577Z,161186765057801
+"""Dr Hurst @ b7rmnGbpoR"" shows a 10♥, Q♣.",2021-01-28T21:00:50.577Z,161186765057800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T21:00:49.771Z,161186764977200
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.20",2021-01-28T21:00:40.107Z,161186764010800
+"River: 4♦, 8♦, 2♣, 8♥ [2♦]",2021-01-28T21:00:34.473Z,161186763447600
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:00:33.663Z,161186763366400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:00:32.668Z,161186763266900
+"Turn: 4♦, 8♦, 2♣ [8♥]",2021-01-28T21:00:26.212Z,161186762621400
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:00:25.404Z,161186762540500
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T21:00:23.822Z,161186762382200
+"Flop:  [4♦, 8♦, 2♣]",2021-01-28T21:00:20.089Z,161186762009000
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T21:00:19.274Z,161186761927500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T21:00:15.361Z,161186761536200
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:00:13.658Z,161186761365900
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T21:00:09.499Z,161186760950006
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T21:00:09.499Z,161186760950005
+"Your hand is 2♥, 3♥",2021-01-28T21:00:09.499Z,161186760950004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (21.20) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.00) | #6 ""Scott @ Ce3DFmEur5"" (18.80)",2021-01-28T21:00:09.499Z,161186760950001
+"-- starting hand #17  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T21:00:09.499Z,161186760950000
+"-- ending hand #16 --",2021-01-28T21:00:06.563Z,161186760656502
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.60 from pot",2021-01-28T21:00:06.563Z,161186760656501
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T21:00:06.563Z,161186760656500
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T21:00:05.753Z,161186760575400
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T21:00:03.522Z,161186760352300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:59:53.397Z,161186759339800
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:59:45.952Z,161186758595300
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:59:34.800Z,161186757480100
+"Flop:  [K♦, 6♦, K♥]",2021-01-28T20:59:30.944Z,161186757094500
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:59:30.132Z,161186757013300
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:59:29.216Z,161186756921700
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T20:59:26.000Z,161186756600400
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T20:58:59.515Z,161186753951706
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T20:58:59.515Z,161186753951705
+"Your hand is 4♠, A♣",2021-01-28T20:58:59.515Z,161186753951704
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (21.40) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.60) | #6 ""Scott @ Ce3DFmEur5"" (19.00)",2021-01-28T20:58:59.515Z,161186753951701
+"-- starting hand #16  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T20:58:59.515Z,161186753951700
+"-- ending hand #15 --",2021-01-28T20:58:53.489Z,161186753349102
+"""Scott @ Ce3DFmEur5"" collected 2.90 from pot with Three of a Kind, 8's (combination: 8♥, 8♣, 8♦, J♦, 10♣)",2021-01-28T20:58:53.489Z,161186753349101
+"""Scott @ Ce3DFmEur5"" shows a 8♥, 6♦.",2021-01-28T20:58:53.489Z,161186753349100
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.60",2021-01-28T20:58:52.679Z,161186753268000
+"""Scott @ Ce3DFmEur5"" bets 0.60",2021-01-28T20:58:48.403Z,161186752840400
+"River: 8♣, 8♦, J♦, 10♣ [3♥]",2021-01-28T20:58:43.221Z,161186752322700
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T20:58:42.408Z,161186752240900
+"""Scott @ Ce3DFmEur5"" bets 0.40",2021-01-28T20:58:35.432Z,161186751543200
+"Turn: 8♣, 8♦, J♦ [10♣]",2021-01-28T20:58:30.326Z,161186751032800
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:58:29.511Z,161186750951200
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T20:58:27.118Z,161186750711900
+"Flop:  [8♣, 8♦, J♦]",2021-01-28T20:58:19.483Z,161186749948500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:58:18.676Z,161186749867700
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:58:08.762Z,161186748876300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:58:05.191Z,161186748519200
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T20:57:45.039Z,161186746504006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T20:57:45.039Z,161186746504005
+"Your hand is 8♥, 6♦",2021-01-28T20:57:45.039Z,161186746504004
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.80) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.70) | #6 ""Scott @ Ce3DFmEur5"" (17.50)",2021-01-28T20:57:45.039Z,161186746504001
+"-- starting hand #15  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T20:57:45.039Z,161186746504000
+"-- ending hand #14 --",2021-01-28T20:57:42.117Z,161186746211802
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.60 from pot",2021-01-28T20:57:42.117Z,161186746211801
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T20:57:42.117Z,161186746211800
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:57:41.309Z,161186746130900
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:57:37.395Z,161186745740100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T20:57:35.775Z,161186745577600
+"Flop:  [4♠, 4♥, 10♥]",2021-01-28T20:57:24.320Z,161186744432100
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T20:57:23.512Z,161186744351300
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:57:05.369Z,161186742537000
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:57:01.450Z,161186742145000
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T20:56:54.331Z,161186741435407
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T20:56:54.331Z,161186741435406
+"Your hand is K♥, 7♠",2021-01-28T20:56:54.331Z,161186741435405
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.40) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.90) | #6 ""Scott @ Ce3DFmEur5"" (17.70)",2021-01-28T20:56:54.331Z,161186741435402
+"-- starting hand #14  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T20:56:54.331Z,161186741435401
+"The player ""Dr Hurst @ b7rmnGbpoR"" joined the game with a stack of 22.40.",2021-01-28T20:56:54.331Z,161186741435400
+"-- ending hand #13 --",2021-01-28T20:56:51.409Z,161186741141002
+"""Also a DR @ Y1Q6ty6Yvq"" collected 2.00 from pot",2021-01-28T20:56:51.409Z,161186741141001
+"Uncalled bet of 0.80 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T20:56:51.409Z,161186741141000
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:56:50.605Z,161186741060600
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.80",2021-01-28T20:56:42.296Z,161186740229600
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:56:36.116Z,161186739611700
+"Turn: J♠, A♦, 3♣ [A♥]",2021-01-28T20:56:31.950Z,161186739195200
+"""Scott @ Ce3DFmEur5"" calls 0.60",2021-01-28T20:56:31.136Z,161186739113700
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.60",2021-01-28T20:56:26.897Z,161186738689800
+"The player ""Dr Hurst @ b7rmnGbpoR"" sit back with the stack of 22.40.",2021-01-28T20:56:26.715Z,161186738671600
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T20:56:20.164Z,161186738016400
+"Flop:  [J♠, A♦, 3♣]",2021-01-28T20:56:14.385Z,161186737438600
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T20:56:13.576Z,161186737357700
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T20:56:11.096Z,161186737109700
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T20:55:50.839Z,161186735084006
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T20:55:50.839Z,161186735084005
+"Your hand is J♣, K♦",2021-01-28T20:55:50.839Z,161186735084004
+"Player stacks: #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.90) | #6 ""Scott @ Ce3DFmEur5"" (18.70)",2021-01-28T20:55:50.839Z,161186735084002
+"-- starting hand #13  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T20:55:50.839Z,161186735084001
+"The player ""Dr Hurst @ b7rmnGbpoR"" stand up with the stack of 22.40.",2021-01-28T20:55:50.839Z,161186735084000
+"-- ending hand #12 --",2021-01-28T20:55:47.926Z,161186734792702
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.40 from pot",2021-01-28T20:55:47.926Z,161186734792701
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T20:55:47.926Z,161186734792700
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:55:47.120Z,161186734712100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T20:55:36.082Z,161186733608300
+"Flop:  [Q♠, Q♥, K♥]",2021-01-28T20:55:24.587Z,161186732458800
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T20:55:23.783Z,161186732378400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:55:20.382Z,161186732038200
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:55:17.025Z,161186731702500
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T20:55:13.222Z,161186731322306
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T20:55:13.222Z,161186731322305
+"Your hand is 6♣, 2♥",2021-01-28T20:55:13.222Z,161186731322304
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.20) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.10) | #6 ""Scott @ Ce3DFmEur5"" (18.70)",2021-01-28T20:55:13.222Z,161186731322301
+"-- starting hand #12  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T20:55:13.222Z,161186731322300
+"-- ending hand #11 --",2021-01-28T20:55:10.313Z,161186731031302
+"""Dr Hurst @ b7rmnGbpoR"" collected 1.00 from pot",2021-01-28T20:55:10.313Z,161186731031301
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T20:55:10.313Z,161186731031300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:55:09.506Z,161186730950700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T20:55:04.184Z,161186730418500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:54:53.552Z,161186729355300
+"Turn: 5♣, 6♣, 8♣ [7♦]",2021-01-28T20:54:50.304Z,161186729030500
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:54:49.498Z,161186728949900
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:54:20.294Z,161186726029400
+"""Scott @ Ce3DFmEur5"" bets 0.20",2021-01-28T20:54:12.735Z,161186725273500
+"Flop:  [5♣, 6♣, 8♣]",2021-01-28T20:53:48.831Z,161186722883200
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:53:48.021Z,161186722802200
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:53:44.777Z,161186722477800
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T20:53:32.904Z,161186721290500
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T20:53:13.222Z,161186719322406
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T20:53:13.222Z,161186719322405
+"Your hand is A♦, 5♥",2021-01-28T20:53:13.222Z,161186719322404
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (21.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.30) | #6 ""Scott @ Ce3DFmEur5"" (19.10)",2021-01-28T20:53:13.222Z,161186719322401
+"-- starting hand #11  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T20:53:13.222Z,161186719322400
+"-- ending hand #10 --",2021-01-28T20:53:10.307Z,161186719030802
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.60 from pot",2021-01-28T20:53:10.307Z,161186719030801
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T20:53:10.307Z,161186719030800
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:53:09.496Z,161186718949700
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:53:07.437Z,161186718743800
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T20:53:02.590Z,161186718259100
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:52:52.826Z,161186717282700
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T20:52:42.328Z,161186716232906
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T20:52:42.328Z,161186716232905
+"Your hand is 2♣, 7♣",2021-01-28T20:52:42.328Z,161186716232904
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (21.80) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.90) | #6 ""Scott @ Ce3DFmEur5"" (19.30)",2021-01-28T20:52:42.328Z,161186716232901
+"-- starting hand #10  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T20:52:42.328Z,161186716232900
+"-- ending hand #9 --",2021-01-28T20:52:39.409Z,161186715941002
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.40 from pot",2021-01-28T20:52:39.409Z,161186715941001
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T20:52:39.409Z,161186715941000
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:52:38.601Z,161186715860200
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:52:27.784Z,161186714778600
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:52:24.527Z,161186714452700
+"Flop:  [2♦, 7♥, 2♣]",2021-01-28T20:52:20.109Z,161186714011000
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T20:52:19.301Z,161186713930200
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:52:15.112Z,161186713511300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:52:04.142Z,161186712414300
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T20:52:01.044Z,161186712104506
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T20:52:01.044Z,161186712104505
+"Your hand is 7♣, 3♦",2021-01-28T20:52:01.044Z,161186712104504
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (22.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (18.70) | #6 ""Scott @ Ce3DFmEur5"" (19.30)",2021-01-28T20:52:01.044Z,161186712104501
+"-- starting hand #9  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T20:52:01.044Z,161186712104500
+"-- ending hand #8 --",2021-01-28T20:51:58.131Z,161186711813202
+"""Dr Hurst @ b7rmnGbpoR"" collected 2.20 from pot",2021-01-28T20:51:58.131Z,161186711813201
+"Uncalled bet of 0.80 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T20:51:58.131Z,161186711813200
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:51:57.320Z,161186711732100
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.80",2021-01-28T20:51:44.445Z,161186710444500
+"River: 10♠, K♦, A♠, 7♥ [J♦]",2021-01-28T20:51:37.198Z,161186709720100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T20:51:36.394Z,161186709639400
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T20:51:32.007Z,161186709200800
+"Turn: 10♠, K♦, A♠ [7♥]",2021-01-28T20:51:26.192Z,161186708619400
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:51:25.383Z,161186708538400
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T20:51:20.936Z,161186708093700
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T20:51:13.559Z,161186707356000
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:51:04.738Z,161186706473800
+"Flop:  [10♠, K♦, A♠]",2021-01-28T20:50:50.941Z,161186705094300
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:50:50.136Z,161186705013700
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:50:45.512Z,161186704551300
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T20:50:40.446Z,161186704044600
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T20:50:23.612Z,161186702361306
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T20:50:23.612Z,161186702361305
+"Your hand is 6♦, 6♠",2021-01-28T20:50:23.612Z,161186702361304
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (20.80) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.70) | #6 ""Scott @ Ce3DFmEur5"" (19.50)",2021-01-28T20:50:23.612Z,161186702361301
+"-- starting hand #8  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T20:50:23.612Z,161186702361300
+"-- ending hand #7 --",2021-01-28T20:50:20.705Z,161186702070602
+"""Dr Hurst @ b7rmnGbpoR"" collected 2.40 from pot",2021-01-28T20:50:20.705Z,161186702070601
+"Uncalled bet of 0.40 returned to ""Dr Hurst @ b7rmnGbpoR""",2021-01-28T20:50:20.705Z,161186702070500
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:50:19.898Z,161186701989900
+"""Dr Hurst @ b7rmnGbpoR"" bets 0.40",2021-01-28T20:50:18.725Z,161186701872600
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T20:50:08.448Z,161186700844900
+"River: 4♥, 3♥, 8♣, 9♥ [J♥]",2021-01-28T20:49:53.949Z,161186699395100
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:49:53.142Z,161186699314300
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:49:51.341Z,161186699134200
+"Turn: 4♥, 3♥, 8♣ [9♥]",2021-01-28T20:49:40.297Z,161186698029900
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T20:49:39.492Z,161186697949300
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:49:36.924Z,161186697692500
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T20:49:31.790Z,161186697179100
+"Flop:  [4♥, 3♥, 8♣]",2021-01-28T20:49:24.924Z,161186696492500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T20:49:24.117Z,161186696411800
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T20:49:21.870Z,161186696187100
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T20:49:20.039Z,161186696004000
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:49:16.227Z,161186695622800
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T20:49:12.637Z,161186695263806
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T20:49:12.637Z,161186695263805
+"Your hand is K♣, 5♦",2021-01-28T20:49:12.637Z,161186695263804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (19.40) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.70) | #6 ""Scott @ Ce3DFmEur5"" (19.90)",2021-01-28T20:49:12.637Z,161186695263801
+"-- starting hand #7  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T20:49:12.637Z,161186695263800
+"-- ending hand #6 --",2021-01-28T20:49:09.725Z,161186694972602
+"""Also a DR @ Y1Q6ty6Yvq"" collected 0.40 from pot",2021-01-28T20:49:09.725Z,161186694972601
+"Uncalled bet of 0.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T20:49:09.725Z,161186694972600
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:49:08.907Z,161186694890700
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:49:04.587Z,161186694458800
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:48:59.007Z,161186693900700
+"Turn: A♦, 5♥, 2♦ [A♠]",2021-01-28T20:48:51.874Z,161186693187800
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T20:48:51.067Z,161186693106800
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:48:43.324Z,161186692332500
+"Flop:  [A♦, 5♥, 2♦]",2021-01-28T20:48:33.461Z,161186691346200
+"""Also a DR @ Y1Q6ty6Yvq"" checks",2021-01-28T20:48:32.653Z,161186691265400
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:48:28.358Z,161186690835900
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:48:23.692Z,161186690369300
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T20:48:15.367Z,161186689536806
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T20:48:15.367Z,161186689536805
+"Your hand is 2♠, 7♦",2021-01-28T20:48:15.367Z,161186689536804
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (19.60) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.50) | #6 ""Scott @ Ce3DFmEur5"" (19.90)",2021-01-28T20:48:15.367Z,161186689536801
+"-- starting hand #6  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T20:48:15.367Z,161186689536800
+"-- ending hand #5 --",2021-01-28T20:48:12.457Z,161186689245802
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.20 from pot",2021-01-28T20:48:12.457Z,161186689245801
+"Uncalled bet of 0.40 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T20:48:12.457Z,161186689245800
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:48:11.646Z,161186689164600
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:48:10.143Z,161186689014400
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T20:47:59.773Z,161186687977400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:47:53.750Z,161186687375100
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:47:51.544Z,161186687154400
+"Flop:  [6♦, 2♠, 8♥]",2021-01-28T20:47:46.455Z,161186686645600
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.40",2021-01-28T20:47:45.643Z,161186686564400
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T20:47:42.639Z,161186686263900
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T20:47:39.320Z,161186685932100
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T20:47:32.494Z,161186685249506
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T20:47:32.494Z,161186685249505
+"Your hand is 10♠, J♠",2021-01-28T20:47:32.494Z,161186685249504
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (20.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (19.70) | #6 ""Scott @ Ce3DFmEur5"" (20.30)",2021-01-28T20:47:32.494Z,161186685249501
+"-- starting hand #5  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T20:47:32.494Z,161186685249500
+"-- ending hand #4 --",2021-01-28T20:47:26.465Z,161186684646603
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 10♣, Q♦.",2021-01-28T20:47:26.465Z,161186684646602
+"""Scott @ Ce3DFmEur5"" collected 3.20 from pot with Pair, K's (combination: K♦, K♥, Q♠, 8♣, 7♦)",2021-01-28T20:47:26.465Z,161186684646601
+"""Scott @ Ce3DFmEur5"" shows a 8♣, K♦.",2021-01-28T20:47:26.465Z,161186684646600
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:47:25.658Z,161186684565900
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:47:20.353Z,161186684035400
+"River: Q♠, 5♦, K♥, 4♣ [7♦]",2021-01-28T20:46:56.752Z,161186681675400
+"""Scott @ Ce3DFmEur5"" calls 0.80",2021-01-28T20:46:55.943Z,161186681594400
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.80",2021-01-28T20:46:54.283Z,161186681428400
+"Turn: Q♠, 5♦, K♥ [4♣]",2021-01-28T20:46:48.007Z,161186680800800
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T20:46:47.197Z,161186680719800
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.40",2021-01-28T20:46:41.933Z,161186680193300
+"Flop:  [Q♠, 5♦, K♥]",2021-01-28T20:46:23.784Z,161186678378500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:46:22.961Z,161186678296200
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.20",2021-01-28T20:46:17.676Z,161186677767700
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:46:10.694Z,161186677069500
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.20",2021-01-28T20:46:07.980Z,161186676798106
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.10",2021-01-28T20:46:07.980Z,161186676798105
+"Your hand is 8♣, K♦",2021-01-28T20:46:07.980Z,161186676798104
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (20.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.30) | #6 ""Scott @ Ce3DFmEur5"" (18.70)",2021-01-28T20:46:07.980Z,161186676798101
+"-- starting hand #4  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T20:46:07.980Z,161186676798100
+"-- ending hand #3 --",2021-01-28T20:46:01.939Z,161186676194104
+"""Scott @ Ce3DFmEur5"" collected 1.50 from pot with Two Pair, A's & 2's (combination: A♠, A♣, 2♥, 2♦, Q♥)",2021-01-28T20:46:01.939Z,161186676194103
+"""Scott @ Ce3DFmEur5"" shows a A♠, J♥.",2021-01-28T20:46:01.939Z,161186676194102
+"""Also a DR @ Y1Q6ty6Yvq"" collected 1.50 from pot with Two Pair, A's & 2's (combination: A♦, A♣, 2♥, 2♦, Q♥)",2021-01-28T20:46:01.939Z,161186676194101
+"""Also a DR @ Y1Q6ty6Yvq"" shows a 6♦, A♦.",2021-01-28T20:46:01.939Z,161186676194100
+"""Scott @ Ce3DFmEur5"" calls 0.60",2021-01-28T20:46:01.133Z,161186676113400
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.60",2021-01-28T20:45:58.328Z,161186675832800
+"River: Q♥, 4♣, 2♥, 2♦ [A♣]",2021-01-28T20:45:51.183Z,161186675118800
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:45:50.377Z,161186675037800
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:45:48.357Z,161186674835800
+"Turn: Q♥, 4♣, 2♥ [2♦]",2021-01-28T20:45:31.194Z,161186673119500
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:45:30.381Z,161186673038200
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.20",2021-01-28T20:45:23.708Z,161186672370900
+"Flop:  [Q♥, 4♣, 2♥]",2021-01-28T20:45:06.984Z,161186670698700
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:45:06.140Z,161186670614100
+"""Scott @ Ce3DFmEur5"" calls 0.40",2021-01-28T20:45:02.267Z,161186670226900
+"""Also a DR @ Y1Q6ty6Yvq"" raises to 0.40",2021-01-28T20:44:58.374Z,161186669837500
+"""Dr Hurst @ b7rmnGbpoR"" calls 0.20",2021-01-28T20:44:47.720Z,161186668772100
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:44:45.856Z,161186668585700
+"""Also a DR @ Y1Q6ty6Yvq"" posts a big blind of 0.20",2021-01-28T20:44:41.451Z,161186668145206
+"""Dr Hurst @ b7rmnGbpoR"" posts a small blind of 0.10",2021-01-28T20:44:41.451Z,161186668145205
+"Your hand is A♠, J♥",2021-01-28T20:44:41.451Z,161186668145204
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (20.20) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.20) | #6 ""Scott @ Ce3DFmEur5"" (18.60)",2021-01-28T20:44:41.451Z,161186668145201
+"-- starting hand #3  (No Limit Texas Hold'em) (dealer: ""Scott @ Ce3DFmEur5"") --",2021-01-28T20:44:41.451Z,161186668145200
+"-- ending hand #2 --",2021-01-28T20:44:35.445Z,161186667544703
+"""Scott @ Ce3DFmEur5"" shows a K♦, 6♣.",2021-01-28T20:44:35.445Z,161186667544702
+"""Dr Hurst @ b7rmnGbpoR"" collected 0.40 from pot with Pair, Q's (combination: Q♥, Q♣, A♦, J♠, 8♥)",2021-01-28T20:44:35.445Z,161186667544701
+"""Dr Hurst @ b7rmnGbpoR"" shows a 5♠, Q♥.",2021-01-28T20:44:35.445Z,161186667544700
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:44:34.639Z,161186667464000
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:44:27.330Z,161186666733000
+"River: J♠, 8♥, Q♣, A♦ [7♦]",2021-01-28T20:44:18.507Z,161186665851000
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:44:17.696Z,161186665769700
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:44:14.953Z,161186665495400
+"Turn: J♠, 8♥, Q♣ [A♦]",2021-01-28T20:44:04.694Z,161186664469600
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:44:03.884Z,161186664388500
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:43:56.136Z,161186663613700
+"Flop:  [J♠, 8♥, Q♣]",2021-01-28T20:43:49.253Z,161186662925400
+"""Dr Hurst @ b7rmnGbpoR"" checks",2021-01-28T20:43:48.448Z,161186662844900
+"""Scott @ Ce3DFmEur5"" calls 0.20",2021-01-28T20:43:44.747Z,161186662474800
+"""Also a DR @ Y1Q6ty6Yvq"" folds",2021-01-28T20:43:34.658Z,161186661465900
+"""Dr Hurst @ b7rmnGbpoR"" posts a big blind of 0.20",2021-01-28T20:43:28.682Z,161186660868308
+"""Scott @ Ce3DFmEur5"" posts a small blind of 0.10",2021-01-28T20:43:28.682Z,161186660868307
+"Your hand is K♦, 6♣",2021-01-28T20:43:28.682Z,161186660868306
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (20.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (21.20) | #6 ""Scott @ Ce3DFmEur5"" (18.80)",2021-01-28T20:43:28.682Z,161186660868303
+"-- starting hand #2  (No Limit Texas Hold'em) (dealer: ""Also a DR @ Y1Q6ty6Yvq"") --",2021-01-28T20:43:28.682Z,161186660868302
+"The game's big blind was changed from 40 to 20.",2021-01-28T20:43:28.682Z,161186660868301
+"The game's small blind was changed from 20 to 10.",2021-01-28T20:43:28.682Z,161186660868300
+"-- ending hand #1 --",2021-01-28T20:43:25.771Z,161186660577102
+"""Also a DR @ Y1Q6ty6Yvq"" collected 2.40 from pot",2021-01-28T20:43:25.771Z,161186660577101
+"Uncalled bet of 1.20 returned to ""Also a DR @ Y1Q6ty6Yvq""",2021-01-28T20:43:25.771Z,161186660577100
+"""Scott @ Ce3DFmEur5"" folds",2021-01-28T20:43:24.962Z,161186660496200
+"""Also a DR @ Y1Q6ty6Yvq"" bets 1.20",2021-01-28T20:43:17.701Z,161186659770200
+"Turn: 7♦, 5♦, 10♦ [9♦]",2021-01-28T20:43:11.971Z,161186659197300
+"""Scott @ Ce3DFmEur5"" calls 0.80",2021-01-28T20:43:11.166Z,161186659116600
+"""Also a DR @ Y1Q6ty6Yvq"" bets 0.80",2021-01-28T20:43:08.504Z,161186658850500
+"Flop:  [7♦, 5♦, 10♦]",2021-01-28T20:42:55.176Z,161186657517700
+"""Scott @ Ce3DFmEur5"" checks",2021-01-28T20:42:54.371Z,161186657437100
+"""Also a DR @ Y1Q6ty6Yvq"" calls 0.40",2021-01-28T20:42:40.090Z,161186656009100
+"""Dr Hurst @ b7rmnGbpoR"" folds",2021-01-28T20:42:33.297Z,161186655329800
+"""Scott @ Ce3DFmEur5"" posts a big blind of 0.40",2021-01-28T20:42:23.557Z,161186654356809
+"""Also a DR @ Y1Q6ty6Yvq"" posts a small blind of 0.20",2021-01-28T20:42:23.557Z,161186654356808
+"Your hand is 4♥, 8♥",2021-01-28T20:42:23.557Z,161186654356807
+"Player stacks: #2 ""Dr Hurst @ b7rmnGbpoR"" (20.00) | #4 ""Also a DR @ Y1Q6ty6Yvq"" (20.00) | #6 ""Scott @ Ce3DFmEur5"" (20.00)",2021-01-28T20:42:23.557Z,161186654356804
+"The player ""Scott @ Ce3DFmEur5"" joined the game with a stack of 20.00.",2021-01-28T20:42:23.557Z,161186654356803
+"The player ""Also a DR @ Y1Q6ty6Yvq"" joined the game with a stack of 20.00.",2021-01-28T20:42:23.557Z,161186654356802
+"The player ""Dr Hurst @ b7rmnGbpoR"" joined the game with a stack of 20.00.",2021-01-28T20:42:23.557Z,161186654356801
+"-- starting hand #1  (No Limit Texas Hold'em) (dealer: ""Dr Hurst @ b7rmnGbpoR"") --",2021-01-28T20:42:23.557Z,161186654356800
+"The admin approved the player ""Also a DR @ Y1Q6ty6Yvq"" participation with a stack of 20.00.",2021-01-28T20:42:05.996Z,161186652599900
+"The player ""Also a DR @ Y1Q6ty6Yvq"" requested a seat.",2021-01-28T20:41:58.608Z,161186651860900
+"The game's big blind was changed from 10 to 40.",2021-01-28T20:40:32.703Z,161186643270501
+"The game's small blind was changed from 5 to 20.",2021-01-28T20:40:32.703Z,161186643270500
+"The admin approved the player ""Scott @ Ce3DFmEur5"" participation with a stack of 20.00.",2021-01-28T20:37:11.199Z,161186623120200
+"The player ""Scott @ Ce3DFmEur5"" requested a seat.",2021-01-28T20:36:53.482Z,161186621348200
+"The admin updated the player ""Dr Hurst @ b7rmnGbpoR"" stack from 5.00 to 20.00.",2021-01-28T20:33:25.236Z,161186600523901
+"WARNING: the admin queued the stack change for the player ""Dr Hurst @ b7rmnGbpoR"" adding 15.00 chips in the next hand.",2021-01-28T20:33:25.236Z,161186600523900
+"The admin approved the player ""Dr Hurst @ b7rmnGbpoR"" participation with a stack of 5.00.",2021-01-28T20:13:36.945Z,161186481694801
+"The player ""Dr Hurst @ b7rmnGbpoR"" requested a seat.",2021-01-28T20:13:36.945Z,161186481694800
+"The game's big blind was changed from 20 to 10.",2021-01-28T20:13:24.914Z,161186480491501
+"The game's small blind was changed from 10 to 5.",2021-01-28T20:13:24.914Z,161186480491500
